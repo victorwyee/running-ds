@@ -2,6 +2,7 @@ library(gtable)
 library(grid)
 library(hrbrthemes)
 
+#### Aggregate to time groups ####
 nsub_dt <- ttt_dt[, list(
   n_sub60 = paste0(sum(time_sec < 60 * 60), " "),
   n_sub70 = paste0(sum(60 * 60 <= time_sec & time_sec < 70 * 60), " "),
@@ -23,6 +24,8 @@ nsub_numeric_dt <- ttt_dt[, list(
 ),
 by = list(year, gender)]
 
+#### Data exploration ####
+
 rbind(
   ttt_dt[, list(sub60 = median(sum(time_sec < 60 * 60) / .N),
                 sub70 = median(sum(60 * 60 <= time_sec & time_sec < 70 * 60) / .N),
@@ -35,7 +38,6 @@ rbind(
                 sub80 = median(sum(70 * 60 <= time_sec & time_sec < 80 * 60) / .N),
                 plus80 = median(sum(80 * 60 <= time_sec) / .N))]
 )
-
 rbind(
   nsub_numeric_dt[, list(sub60 = mean(p_sub60),
                          sub70 = mean(p_sub70),
@@ -48,9 +50,10 @@ rbind(
                          sub80 = mean(p_sub80),
                          sub80_cum = mean(1 - p_over80))]
 )
-
 ttt_dt[place == 1, ][order(name)][, list(.N), by = name][order(-N)]
 ttt_dt[finish == 1, ][order(name)][, list(.N), by = name][order(-N)]
+
+#### Reshape for plotting ####
 
 nsub_long_dt <- data.table::melt(
   nsub_dt, measure.vars = grep("^n_|^p_", names(nsub_dt), value = TRUE))
@@ -61,7 +64,8 @@ nsub_long_dt[, `:=`(
   ypos = ifelse(like(variable, "n_"), 9.5,
                 ifelse(like(variable, "p_"), 6.9, 0)))]
 
-# Order by p_over80
+#### Order by p_over80 ####
+
 year_ordered <- nsub_long_dt[gender == "Men" & variable == "p_over80", year, by = frank(value)][order(frank)][["year"]]
 ttt_dt[, year_ordered := factor(year, levels = year_ordered)]
 nsub_long_dt[, year_ordered := factor(year, levels = year_ordered)]
