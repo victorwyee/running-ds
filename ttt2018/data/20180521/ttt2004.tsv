@@ -1,0 +1,267 @@
+finish	name	age	home	time	gender	division	place
+1	Gary Blanco*	36	Chico	57:57	M	30-39 	1
+2	Chad Kilian*	23	Berkeley	59:14	M	20-29 	1
+3	Jeff Teeters*	44	Berkeley	60:43	M	40-49 	1
+4	Kevin Selby	31	Martinez	61:24	M	30-39 	2
+5	Damien Curry	40	Berkeley	61:40	M	40-49 	2
+6	Jim Stack	24	Berkeley	61:57	M	20-29 	2
+7	Michael Singleton	34	Fremont	62:04	M	30-39 	3
+8	Ray Yokoi	34	El Cerrito	62:30	M	30-39 	4
+9	Fletcher Lesley	48	San Francisco	62:37	M	40-49 	3
+10	Glen Redpath	38	San Francisco	63:22	M	30-39 	5
+11	Kyle Brudvik	26	Berkeley	63:49	M	20-29 	3
+12	David Jones	38	Danville	64:39	M	30-39 	6
+13	Rich Gentry	46	Berkeley	64:54	M	40-49 	4
+14	Ken Grebenstein*	50	Corte Madera	64:55	M	50-59 	1
+15	Eric Blumenau	33	Corte Madera	65:07	M	30-39 	7
+16	Chris Becker	35	Oakland	65:16	M	30-39 	8
+17	Jack Toolin	43	San Jose	65:41	M	40-49 	5
+18	Brian Hicks	30	San Mateo	65:47	M	30-39 	9
+19	Jeremy Notch	22	Oakland	65:50	M	20-29 	4
+20	Clint Williams	41	Walnut Creek	67:27	M	40-49 	6
+21	Graham Cooper	34	Oakland	67:37	M	30-39 	10
+22	Randy Morris	36	Oakland	67:43	M	30-39 	11
+23	Casey Reinking	46	Sunnyvale	67:45	M	40-49 	7
+24	Eric Ellisen	42	Oakland	67:48	M	40-49 	8
+25	Dan Anderson	52	Union City	68:10	M	50-59 	2
+26	Ron Gutierrez	36	San Francisco	68:22	M	30-39 	12
+27	Marc Hermstein	38	San Jose	68:48	M	30-39 	13
+28	Ray Chavira	40	Oakland	68:51	M	40-49 	9
+29	John Mintz	39	Santa Clara	68:51	M	30-39 	14
+30	Sean McGlynn	37	Walnut Creek	68:52	M	30-39 	15
+31	Katie Litzenberger*	27	Lafayette	68:57	F	20-29 	1
+32	Tracy Dutson	40	Bend	69:29	M	40-49 	10
+33	Steve Gregg	47	Oakland	69:40	M	40-49 	11
+34	Don Ritchie	57	Fairfax	69:48	M	50-59 	3
+35	Moured Ben Rached	43	Castro Valley	69:48	M	40-49 	12
+36	Fred Martin*	60	El Dorado Hills	70:04	M	60-69 	1
+37	Jim Curtis	45	Lafayette	70:05	M	40-49 	13
+38	Russell DeKelver	20	Berkeley	70:09	M	20-29 	5
+39	Jennifer Wong	28	Oakland	70:28	F	20-29 	2
+40	Brian Rhee	39	Moraga	70:38	M	30-39 	16
+41	Einar Acuna	42	Pleasant Hill	70:46	M	40-49 	14
+42	Kenny Bright	44	Fremont	70:59	M	40-49 	15
+43	Chris Maginn	42	Walnut Creek	71:15	M	40-49 	16
+44	John Pidoli	40	Livermore	71:24	M	40-49 	17
+45	Greg Corcoran	45	Orinda	71:39	M	40-49 	18
+46	Randy Shilling	44	Castro Valley	71:46	M	40-49 	19
+47	Shelly Pierson*	35	Walnut Creek	72:04	F	30-39 	1
+48	Paddy Riley	29	Oakland	72:05	M	20-29 	6
+49	James O'Hare	36	Oakland	72:06	M	30-39 	17
+50	Meghan Kelly	29	Redwood City	72:07	F	20-29 	3
+51	Raul Jorcino	40	Piedmont	72:10	M	40-49 	20
+52	Michelle Byrnes	28	Berkeley	72:54	F	20-29 	4
+53	Robert Gormley	62	Moraga	72:57	M	60-69 	2
+54	Danny Bringer	35	San Ramon	73:08	M	30-39 	18
+55	James Jarosz	24	El Cerrito	73:17	M	20-29 	7
+56	Rodrigo Prudencio	34	Oakland	73:22	M	30-39 	19
+57	Tony Zavanelli	44	Concord	73:26	M	40-49 	21
+58	John Spriggs	43	El Cerrito	73:38	M	40-49 	22
+59	Deborah Spaulding	30	Berkeley	73:52	F	30-39 	2
+60	Andrew Graham	30	Berkeley	73:53	M	30-39 	20
+61	Frank Eeckman	48	Berkeley	74:27	M	40-49 	23
+62	Kate Samuelson*	45	Livermore	74:51	F	40-49 	1
+63	Lion Caldwell	53	Alameda	75:13	M	50-59 	4
+64	Kevin Mackie	27	Berkeley	75:25	M	20-29 	8
+65	Steve Sidney	55	Piedmont	75:48	M	50-59 	5
+66	Marian Richard	44	Cupertino	75:51	F	40-49 	2
+67	Carlo Lucero	40	Hayward	75:56	M	40-49 	24
+68	David Bowen	43	Oakland	75:59	M	40-49 	25
+69	Dan Sharp	44	Oakland	76:04	M	40-49 	26
+70	Larry Witte	39	Alameda	76:08	M	30-39 	21
+71	Debbie Westover	32	Oakland	76:13	F	30-39 	3
+72	William Burke	33	Richmond	76:15	M	30-39 	22
+73	Jack Zakarian	52	Hercules	76:18	M	50-59 	6
+74	Celia Woodfill	46	Berkeley	76:27	F	40-49 	3
+75	David La Duc	34	Oakland	76:34	M	30-39 	23
+76	George Frazier	57	Corte Madera	76:36	M	50-59 	7
+77	Jeff Margileth	29	San Jose	76:42	M	20-29 	9
+78	Karen Kasses	42	Santa Clara	76:42	F	40-49 	4
+79	Lisa Langlitz	24	San Jose	76:57	F	20-29 	5
+80	Tom Riley	43	Orinda	77:06	M	40-49 	27
+81	Julius Ratti	53	Oakland	77:17	M	50-59 	8
+82	Arturo Thiele-Sardina	45	San Jose	77:23	M	40-49 	28
+83	Michael Hug	30	Menlo Park	77:28	M	30-39 	24
+84	Peter Cajthaml	46	San Mateo	77:35	M	40-49 	29
+85	James Spiess	35	San Diego	77:40	M	30-39 	25
+86	Dave Eitel	43		77:42	M	40-49 	30
+87	Bill Ralyea	49	Alamo	77:44	M	40-49 	31
+88	Steven Katz	53	Larkspur	77:51	M	50-59 	9
+89	Trevor Deussen*	15	San Jose	77:53	M	-20 	1
+90	Ryan Fuller	21	Davis	77:54	M	20-29 	10
+91	Joel Schneider	40	San Jose	78:00	M	40-49 	32
+92	Maury Beck	35	Oakland	78:06	M	30-39 	26
+93	Adam Sachs	44	San Francisco	78:12	M	40-49 	33
+94	Sue Smith	34	Castro Valley	78:19	F	30-39 	4
+95	Mike Conway	44	Danville	78:25	M	40-49 	34
+96	James Rickett	32	Berkeley	78:30	M	30-39 	27
+97	Amy Seirer	28	Redwood City	78:40	F	20-29 	6
+98	Tom Pavletic	47	Alameda	78:44	M	40-49 	35
+99	Phil Murphy	60	Oakley	78:53	M	60-69 	3
+100	Edna Tow	33	Berkeley	79:03	F	30-39 	5
+101	Lorilei Vose	47		79:29	F	40-49 	5
+102	Bill Schaaf	55	Walnut Creek	79:31	M	50-59 	10
+103	Jenny Wong	47	Castro Valley	79:33	F	40-49 	6
+104	Tom McKnight	45	Martinez	79:41	M	40-49 	36
+105	Gary MacPherson	58	Alameda	79:46	M	50-59 	11
+106	Andrew Shogan	24	Lafayette	79:48	M	20-29 	11
+107	Jim Peplow	46	Chico	79:51	M	40-49 	37
+108	Caryne Finley-Mount	40	Livermore	79:58	F	40-49 	7
+109	Kristen Delmage	33		80:00	F	30-39 	6
+110	Vin Harrington	56	Berkeley	80:22	M	50-59 	12
+111	Jennifer Horn	33	Hayward	80:41	F	30-39 	7
+112	John Bihl	46	Newark	80:49	M	40-49 	38
+113	Han Ko	46	Milpitas	81:17	M	40-49 	39
+114	Asa Hatami	20	Pleasanton	81:17	M	20-29 	12
+115	Julian Martinez	42	Oakland	81:40	M	40-49 	40
+116	Brian Kearney	47	Concord	81:42	M	40-49 	41
+117	Paul Borchardt	42	San Francisco	82:01	M	40-49 	42
+118	Clement Choy	56	Alamo	82:01	M	50-59 	13
+119	John Rettig	39	Alamo	82:03	M	30-39 	28
+120	Chris Mertes	42	Orinda	82:12	M	40-49 	43
+121	Paula Kindinger-Wilcox	39	Castro Valley	82:37	F	30-39 	8
+122	Ken Beck	41	Castro Valley	82:41	M	40-49 	44
+123	Daryle Terry	34	Livermore	82:48	M	30-39 	29
+124	Kelly Tarkowski	36	Fremont	82:51	F	30-39 	9
+125	Laura Cohen	38	San Francisco	83:15	F	30-39 	10
+126	Stephen Marchi	49		83:29	M	40-49 	45
+127	Bob Sera	56	Kensington	83:31	M	50-59 	14
+128	Brian Peter	37	Alamo	83:40	M	30-39 	30
+129	Sonoko Konishi	33	Albany	83:43	F	30-39 	11
+130	Deanna Stemm	45	Fremont	83:47	F	40-49 	8
+131	Keith Arnold	39	Berkeley	83:52	M	30-39 	31
+132	Dan Russell	49	Cupertino	83:58	M	40-49 	46
+133	Tim Duggan	55	San Ramon	84:03	M	50-59 	15
+134	Susan K. Moser	41	San Lorenzo	84:03	F	40-49 	9
+135	Tom Hunt	34	El Cerrito	84:22	M	30-39 	32
+136	Keith Lewis	47		84:40	M	40-49 	47
+137	Michael Cowan	45	Oakland	84:48	M	40-49 	48
+138	Jamison Jossis	33	Oakland	85:15	M	30-39 	33
+139	Scott Siler	35	Hayward	85:29	M	30-39 	34
+140	Maureen Vergara	39	Oakland	85:33	F	30-39 	12
+141	Robin Aiello	41	Bend	85:43	F	40-49 	10
+142	Ewan Johnson	33	Albany	85:55	M	30-39 	35
+143	John Dilsaver	48	San Leandro	86:01	M	40-49 	49
+144	Eileen Perry	42	Pleasant Hill	86:03	F	40-49 	11
+145	Joshua England	31	Walnut Creek	86:14	M	30-39 	36
+146	Chuan Gao	36	San Francisco	86:28	F	30-39 	13
+147	Katie Shutte	23	Lafayette	86:32	F	20-29 	7
+148	Scott Sylvester	27	Martinez	86:53	M	20-29 	13
+149	Larry Woods	50	Ukiah	86:58	M	50-59 	16
+150	Jeff Holman	44	Berkeley	86:59	M	40-49 	50
+151	Joel Fried	40	Oakland	87:06	M	40-49 	51
+152	Regis Amann	58	Union City	87:24	M	50-59 	17
+153	Dave Matthews	40	Pleasant Hill	87:49	M	40-49 	52
+154	Gary Eno	58	Berkeley	88:20	M	50-59 	18
+155	Michael Isip	34	Oakland	88:29	M	30-39 	37
+156	Jill Vialet	39	Oakland	88:31	F	30-39 	14
+157	Ron Peck	62	Sacramento	88:43	M	60-69 	4
+158	Julie R Hay-Smith	28	Walnut Creek	88:51	F	20-29 	8
+159	Debbie Santa Maria	45	San Ramon	88:58	F	40-49 	12
+160	Sandy Perez	42	Fairfield	89:00	F	40-49 	13
+161	Jenny Friday	39	Berkeley	89:29	F	30-39 	15
+162	Andrea Notch*	18	Oakland	89:51	F	-20 	1
+163	Rebecca Gettelman	32	San Diego	90:09	F	30-39 	16
+164	Todd Swayne	31	Rocklin	90:25	M	30-39 	38
+165	Bill Karp	59	Berkeley	90:34	M	50-59 	19
+166	Garland Lee	51	Sunnyvale	90:41	M	50-59 	20
+167	Kym Sterner	38	Albany	90:44	F	30-39 	17
+168	Martin Morris	35	San Francisco	90:48	M	30-39 	39
+169	Todd Trumbull	33		91:00	M	30-39 	40
+170	Joe Bravo	41	Concord	91:16	M	40-49 	53
+171	Adele Ho	46	Richmond	91:17	F	40-49 	14
+172	Michael Hasley	49	Oakland	91:27	M	40-49 	54
+173	Trinh Tran	25	Berkeley	91:45	F	20-29 	9
+174	Craig Stern	50	San Rafael	91:58	M	50-59 	21
+175	David Nicely	43	Berkeley	92:03	M	40-49 	55
+176	John Musgrove	49	San Francisco	92:16	M	40-49 	56
+177	Karen Monroe	42	San Francisco	92:33	F	40-49 	15
+178	Bibiana Obler	30	Berkeley	92:48	F	30-39 	18
+179	Ian Tidswell	41	San Francisco	93:20	M	40-49 	57
+180	Mike Szmurlo	49	Suisun City	93:34	M	40-49 	58
+181	Michael Scott	27	Berkeley	93:57	M	20-29 	14
+182	Steve Biggs	36	Clayton	94:10	M	30-39 	41
+183	John Procita	41	Castro Valley	94:27	M	40-49 	59
+184	Steve Hui	49	San Leandro	94:45	M	40-49 	60
+185	Debra Kimberling	46	San Leandro	94:45	F	40-49 	16
+186	Sam Hirabayashi*	76	San Rafael	95:00	M	70+ 	1
+187	Bob Akers	48	Petaluma	95:19	M	40-49 	61
+188	John B. Rowe	40	Albany	95:30	M	40-49 	62
+189	Stephen Shub	52	Oakland	95:42	M	50-59 	22
+190	Noel Gutman	34	Lafayette	95:51	M	30-39 	42
+191	Suzanne Kelly-Lyall	40	Berkeley	96:12	F	40-49 	17
+192	Patti Carr-Wierzba	36	Castro Valley	96:16	F	30-39 	19
+193	David Akullian	54	Berkeley	96:29	M	50-59 	23
+194	Mal Scotchler	57	Berkeley	96:57	M	50-59 	24
+195	Sandra Wittenbrock	31	Oakland	96:59	F	30-39 	20
+196	Luke Castell	43	San Mateo	97:06	M	40-49 	63
+197	Albert Hui	45	San Leandro	97:45	M	40-49 	64
+198	Irene Walsh	39	Castro Valley	97:52	F	30-39 	21
+199	Hugh Randall	41	Walnut Creek	97:56	M	40-49 	65
+200	Nerissa Pavletic	37	Alameda	98:12	F	30-39 	22
+201	David Kasses	48	Santa Clara	98:32	M	40-49 	66
+202	Rawson Hobart	42	Burlingame	98:34	M	40-49 	67
+203	Jean-Paul Cozzatti	35	Oakland	98:40	M	30-39 	43
+204	Lia Bernstein	40	Berkeley	98:44	F	40-49 	18
+205	Ed Nanale	36	Oakland	98:52	M	30-39 	44
+206	Jay Bedsworth	39	Pleasant Hill	98:58	M	30-39 	45
+207	Jim Radar	62	Pleasanton	99:11	M	60-69 	5
+208	Ellen Wolfe	41	Grant Bay	99:20	F	40-49 	19
+209	Grace Voorheis	18	Santa Cruz	99:26	F	-20 	2
+210	Elizabeth Gebur*	52	Livermore	99:35	F	50-59 	1
+211	Jeremiah Holland	35		99:59	M	30-39 	46
+212	Kevin Breault-Jones	43	Oakland	100:07	M	40-49 	68
+213	Roland Chan	43	Mountain View	100:41	M	40-49 	69
+214	Laura Rambin	35	Oakland	100:54	F	30-39 	23
+215	Jerome Politzer	46	Carmel	100:58	M	40-49 	70
+216	Bobbie Berkman	55	Walnut Creek	101:10	F	50-59 	2
+217	Bernie Bergesen	69	Berkeley	101:30	M	60-69 	6
+218	Carol Bruton	51	Livermore	101:42	F	50-59 	3
+219	Elizabeth Gettleman	29	Berkeley	102:02	F	20-29 	10
+220	Bic Aki	39	Union City	102:26	F	30-39 	24
+221	Kimberly Bean	46	Oakland	102:41	F	40-49 	20
+222	Rich Fisher	57	Oakland	102:43	M	50-59 	25
+223	Terrell Barry	47	Dixon	102:51	F	40-49 	21
+224	Michael Niemi	50	Oakdale	103:25	M	50-59 	26
+225	Yomi Kukoyi	52	Bay Point	103:25	M	50-59 	26
+226	Dan Boone	61	Berkeley	103:43	M	60-69 	7
+227	Michael Beaver	31	San Leandro	104:18	M	30-39 	47
+228	David Simpson	47	San Francisco	104:26	M	40-49 	71
+229	Keli Turner	24	Modesto	104:36	F	20-29 	11
+230	Ronn Simpson	59	Berkeley	105:33	M	50-59 	28
+231	Jana Phillipini	26	Fair Oaks	105:40	F	20-29 	12
+232	Sophie Rheinheimer	55	Oakland	106:05	F	50-59 	4
+233	Mari Dougherty	47	Oakland	106:24	F	40-49 	22
+234	Tim Dougherty	48	Oakland	106:25	M	40-49 	72
+235	Tom Wierzba	41	Castro Valley	106:55	M	40-49 	73
+236	Susan Brady	52	El Cerrito	107:02	F	50-59 	5
+237	Julie Rogers	46	El Cerrito	107:23	F	40-49 	23
+238	John Perrodin	32	Concord	107:28	M	30-39 	48
+239	Patrick Gonzales	28	Hayward	107:28	M	20-29 	15
+240	Debbie Mills	51	Oakland	107:46	F	50-59 	6
+241	Helen Budworth	26	Berkeley	108:28	F	20-29 	13
+242	Jody Brooks	39	Oakland	108:39	M	30-39 	49
+243	Marjorie Forman	51	Corte Madera	108:50	F	50-59 	7
+244	Beth Mintz	39	Berkeley	109:22	F	30-39 	25
+245	Michael Neal	49	Healdsburg	109:34	M	40-49 	74
+246	Annette Wiggin	34	Oakland	109:55	F	30-39 	26
+247	Mark Magers	46	Oakland	110:07	M	40-49 	75
+248	Jonathan Rivin	48	Moraga	111:00	M	40-49 	76
+249	Nick Casares Jr	54	Oakland	111:08	M	50-59 	29
+250	Larry Press	57	Morgan Hill	111:11	M	50-59 	30
+251	Ron Finch	56	Santa Rosa	111:28	M	50-59 	31
+252	Jeanne Bracken	54	Stinson Beach	112:11	F	50-59 	8
+253	Jane Colman*	60	Oakland	112:48	F	60-69 	1
+254	Jeffrey Cohen	52	El Cerrito	114:16	M	50-59 	32
+255	Teri Mantz	47	Santa Cruz	114:48	F	40-49 	24
+256	Henri Phelan	60	Oakland	114:49	M	60-69 	8
+257	Jacklyn Litman	53	Burlingame	115:32	F	50-59 	9
+258	Tina Castell	41	San Mateo	121:34	F	40-49 	25
+259	Carol Urzi	56	Berkeley	122:34	F	50-59 	10
+260	Leah Aguilera	32	Castro Valley	124:15	F	30-39 	27
+261	Chris Strach	33	Castro Valley	124:16	M	30-39 	50
+262	Kathleen Paulo	48	Oakland	125:14	F	40-49 	26
+263	Teresa Miller	37	Oakland	127:14	F	30-39 	28
+264	Nef Mart	56	San Francisco	127:17	F	50-59 	11
+265	Lora Santiago	45	San Pablo	127:49	F	40-49 	27
+266	Elizabeth Anderson	35	Oakland	140:19	F	30-39 	29
