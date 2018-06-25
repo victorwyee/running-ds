@@ -3,7 +3,7 @@ library(lubridate)
 
 #### Data ####
 
-wm18_hc_dt <- fread("data/20180624/woodmonster-2018-handicap.tsv")
+wm18_hc_dt <- fread("data/20180624/woodmonster/woodmonster-2018-handicap.tsv")
 setnames(wm18_hc_dt, c("place_oa", "full_name", "city", "bib", "age",
                        "gender", "time_actual", "handicap", "time_net"))
 
