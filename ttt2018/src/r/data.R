@@ -3,18 +3,15 @@ library(ggplot2)
 library(lubridate)
 library(ggrepel)
 
-#### Helper Functions ####
-
-formatPercent <- function(x, digits = 2, format = "f", ...) {
-  paste0(formatC(100 * x, format = format, digits = digits, ...), "%")
-}
+source("../common/helper.R")
 
 #### Previous years ####
 
-datadir   <- "data/20180521/"
+datadir   <- "data/20180521/tilden_tough_ten/"
 datapaths <- paste0(datadir, grep("^ttt[0-9]{4}.tsv", dir(datadir), value = T))
 for (file in datapaths) {
-  year <- substring(file, 18, 21)
+  filename <- basename(file)
+  year <- substring(filename, 4, 7)
   dtname <- paste0("ttt", year, "_dt")
   assign(dtname, fread(file))
   get(dtname)[, year := year]
@@ -27,7 +24,7 @@ ttt_dt[, `:=`(time_sec = as.numeric(ms(time)),
               gender = ordered(gender, levels = c("M", "F"), labels = c("Men", "Women")))]
 
 #### 2018 Preliminary Results ####
-ttt2018_dt <- fread("data/20180521/tabula-TildenToughTen2018PDF.csv")
+ttt2018_dt <- fread("data/20180521/tilden_tough_ten/tabula-TildenToughTen2018PDF.csv")
 ttt2018_dt <- ttt2018_dt[, list(
   finish = Position,
   name = Name,
@@ -52,6 +49,6 @@ ttt_dt <- rbind(ttt_dt, ttt2018_dt)
 ttt_dt[, name := stringi::stri_trim_both(gsub('\\*', '', name))]
 
 #### Clean up ####
-rm(datadir, datapaths, dtname, file, year, ttt2018_dt)
+rm(datadir, datapaths, dtname, file, filename, year, ttt2018_dt)
 
 
