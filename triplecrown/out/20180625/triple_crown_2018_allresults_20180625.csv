@@ -1,439 +1,439 @@
-,name_full_ttt,name_full_lc,name_full_wm,city_ttt,city_lc,city_wm,gender,age_ttt,age_wm,division_lc,position_ttt,time_gun_ttt,position_lc,time_gun_lc,position_handicap_wm,position_gun_wm,time_gun_wm
-0,Sam Robinson,,Sam Robinson,Oakland,,Oakland CA,M,33.0,33.0,,1.0,00:57:40.00,,,3.0,3.0,00:57:21.10
-1,Doug Howard,,,Oakland,,,M,37.0,,,2.0,00:59:32.00,,,,,
-2,Peter Battaglino,Peter Battaglino,,Oakland,Oakland,,M,34.0,,M 30-34,3.0,01:04:06.00,2.0,01:35:04.91,,,
-3,David Weisgerber,,,Livermore,,,M,33.0,,,4.0,01:04:46.00,,,,,
-4,Pete Sikora,,,Berkeley,,,M,32.0,,,5.0,01:04:54.00,,,,,
-5,Caitlin Smith,,,Oakland,,,F,37.0,,,6.0,01:05:56.00,,,,,
-6,Linn Schulte-Sasse,,,Piedmont,,,F,40.0,,,7.0,01:06:05.00,,,,,
-7,Kenneth Handel,,,Oakland,,,M,28.0,,,8.0,01:07:25.00,,,,,
-8,Doug Steedman,,,San Francisco,,,M,63.0,,,9.0,01:07:46.00,,,,,
-9,Mathew Summers,,,Berkeley,,,M,25.0,,,10.0,01:08:41.00,,,,,
-10,John van Hoff,,,Oakland,,,M,32.0,,,11.0,01:08:51.00,,,,,
-11,David Yott,,,Walnut Creek,,,M,37.0,,,12.0,01:09:08.00,,,,,
-12,Jose Lopez,,,El Sobrante,,,M,47.0,,,13.0,01:09:28.00,,,,,
-13,Victor Yee,Victor Yee,Victor Yee,Berkeley,Berkeley,Berkeley CA,M,28.0,28.0,M 18-29,14.0,01:10:01.00,7.0,01:43:22.77,65.0,19.0,01:15:58.80
-14,Jessie Stewart,,,Oakland,,,F,33.0,,,15.0,01:10:06.00,,,,,
-15,Dan Desmond,,,Oakland,,,M,40.0,,,16.0,01:10:17.00,,,,,
-16,Susie Hufstader,,,Alameda,,,F,27.0,,,17.0,01:10:29.00,,,,,
-17,Brian Black,,,Oakland,,,M,51.0,,,18.0,01:10:39.00,,,,,
-18,Peter Hsai,,,San Francisco,,,M,57.0,,,19.0,01:11:06.00,,,,,
-19,Kaitlyn Spees,,,Oakland,,,F,25.0,,,20.0,01:11:59.00,,,,,
-20,Alex Andel,,Alex Andel,Berkeley,,Berkeley CA,M,46.0,46.0,,21.0,01:12:15.00,,,22.0,15.0,01:14:10.00
-21,Joseph Makonnen,Joseph Makonnen,Joseph Makonnen,Oakland,Oakland,Oakland CA,M,45.0,45.0,M 45-49,22.0,01:12:42.00,11.0,01:48:40.76,35.0,24.0,01:16:24.70
-22,Isabel Howard,,,Oakland,,,F,32.0,,,23.0,01:12:54.00,,,,,
-23,Laurent Hautefeuille,,,Berkeley,,,M,36.0,,,24.0,01:13:08.00,,,,,
-24,Charles Forster,Charles Forster,,Lafayette,Lafayette,,M,47.0,,M 45-49,25.0,01:13:39.00,9.0,01:47:17.98,,,
-25,Sissel Berntsen-Heber,,,Mill Valley,,,F,54.0,,,26.0,01:13:44.00,,,,,
-26,Evan Paul,,,Piedmont,,,M,41.0,,,27.0,01:13:57.00,,,,,
-27,Tony O'Toole,,,Oakland,,,M,31.0,,,28.0,01:14:09.00,,,,,
-28,Richard Soper,,,Oakland,,,M,57.0,,,29.0,01:15:12.00,,,,,
-29,Chris Conroy,,,Berkeley,,,M,49.0,,,30.0,01:15:46.00,,,,,
-30,Alec Randall,Alec Randall,,Oakland,Oakland,,M,44.0,,M 40-44,31.0,01:15:51.00,10.0,01:48:26.87,,,
-31,Stephen Tracy,,Stephen Tracy,San Francisco,,San Francisco CA,M,55.0,55.0,,32.0,01:15:58.00,,,6.0,23.0,01:16:23.30
-32,Hank Williams,,Hank Williams,Richmond,,Richmond CA,M,38.0,38.0,,33.0,01:16:11.00,,,62.0,28.0,01:17:14.40
-33,Ashley Clayborne,,Ashley Clayborne,Oakland,,Oakland CA,M,41.0,41.0,,34.0,01:16:19.00,,,72.0,38.0,01:21:18.30
-34,Jeff Pomrenke,Jeff Pomrenke,Jeff Pomrenke,Oakland,Oakland,Oakland CA,M,29.0,29.0,M 18-29,35.0,01:16:44.00,43.0,02:15:12.66,106.0,54.0,01:24:44.20
-35,Rick Rosenbaum,,Rick Rosenbaum,Piedmont,,Piedmont CA,M,54.0,54.0,,36.0,01:17:01.00,,,53.0,57.0,01:25:36.60
-36,Joe Aman,,Joe Aman,Berkeley,,Berkeley CA,M,24.0,24.0,,37.0,01:17:18.00,,,69.0,26.0,01:16:59.00
-37,Fredrik Pettersson,,,Pleasanton,,,M,50.0,,,38.0,01:17:23.00,,,,,
-38,Adam Brink,,,Oakland,,,M,44.0,,,39.0,01:18:12.00,,,,,
-39,Valerie Kao,Valerie Kao,Valerie Kao,Hayward,Hayward,Hayward CA,F,37.0,37.0,F 35-39,40.0,01:18:14.00,24.0,02:01:10.70,74.0,76.0,01:30:16.30
-40,Will Fernholz,,,Berkeley,,,M,14.0,,,41.0,01:18:16.00,,,,,
-41,Ivor Brown,,Ivor Brown,Berkeley,,Berkeley CA,M,51.0,51.0,,42.0,01:18:26.00,,,40.0,41.0,01:21:43.00
-42,Ruben Ramirez,,,Alameda,,,M,61.0,,,43.0,01:18:38.00,,,,,
-43,Renato Concepcion,,,Berkeley,,,M,50.0,,,44.0,01:18:44.00,,,,,
-44,Jeff Tse,,,San Luis Obispo,,,M,45.0,,,45.0,01:18:46.00,,,,,
-45,Michelle Sweeney,,,Berkeley,,,F,32.0,,,46.0,01:18:49.00,,,,,
-46,Raul Jorcino,,,Oakland,,,M,54.0,,,47.0,01:19:03.00,,,,,
-47,Rudolph Letsche,Rudolph Letsche,Rudolph Letsche,Oakland,Oakland,Oakland CA,M,41.0,41.0,M 40-44,48.0,01:19:16.00,21.0,02:00:13.87,96.0,63.0,01:27:05.70
-48,Mike Ambrose,,,Oakland,,,M,55.0,,,49.0,01:19:22.00,,,,,
-49,Aidan Metcalfe,,,El Cerrito,,,M,14.0,,,50.0,01:19:24.00,,,,,
-50,Justin Graham,,,Oakland,,,M,46.0,,,51.0,01:19:32.00,,,,,
-51,Helen Lawrence,,,Oakland,,,F,36.0,,,52.0,01:19:41.00,,,,,
-52,Austin Peck,,,Albany,,,M,29.0,,,53.0,01:19:47.00,,,,,
-53,Benjamin Golze,Benjamin Golze,Benjamin Golze,Oakland,Oakland,Oakland CA,M,34.0,34.0,M 30-34,54.0,01:19:59.00,28.0,02:05:29.35,101.0,60.0,01:25:55.30
-54,Aaron Diamond,,,Berkeley,,,M,14.0,,,55.0,01:19:54.00,,,,,
-55,Maury Beck,,,Piedmont,,,M,49.0,,,56.0,01:20:18.00,,,,,
-56,Jorien Knipping,,,Den Hoorn Zuid-Holland,,,F,24.0,,,57.0,01:20:40.00,,,,,
-57,Meredith Nix,,,Oakland,,,F,20.0,,,58.0,01:20:45.00,,,,,
-58,Michael Gerhardt,,,Berkeley,,,M,28.0,,,59.0,01:20:51.00,,,,,
-59,Daniel DellOsso,,,Berkeley,,,M,65.0,,,60.0,01:20:54.00,,,,,
-60,Mike Johnson,,,Davis,,,M,62.0,,,61.0,01:20:59.00,,,,,
-61,Kathleen Helmer,,,Kentfield,,,F,44.0,,,62.0,01:21:27.00,,,,,
-62,Chris Lele,,,Walnut Creek,,,M,42.0,,,63.0,01:21:30.00,,,,,
-63,Samuel Wang,,Samuel Wang,Castro Valley,,Castro Valley CA,M,46.0,46.0,,64.0,01:21:47.00,,,125.0,109.0,01:37:00.00
-64,Jim Eckford,Jim Eckford,,Oakland,Oakland,,M,62.0,,M 60-64,65.0,01:21:53.00,32.0,02:09:13.84,,,
-65,Anna Bretan,,,Berkeley,,,F,33.0,,,66.0,01:21:56.00,,,,,
-66,Matthew Meyer,,,Oakland,,,M,34.0,,,67.0,01:22:06.00,,,,,
-67,Beck Tompkins,,,Berkeley,,,M,14.0,,,68.0,01:22:35.00,,,,,
-68,Maya Schechter,,,Orinda,,,F,25.0,,,69.0,01:22:42.00,,,,,
-69,Chris Andrews,,Chris Andrews,Berkeley,,Berkeley CA,M,31.0,31.0,,70.0,01:22:45.00,,,116.0,68.0,01:28:07.90
-70,Mary Kathryn Lynch,,,Oakland,,,F,54.0,,,71.0,01:22:48.00,,,,,
-71,Ruth Teitelbaum,,,Berkeley,,,F,48.0,,,72.0,01:22:59.00,,,,,
-72,Michele Byrnes,,,Berkeley,,,F,42.0,,,73.0,01:23:34.00,,,,,
-73,Raj Dasari,,,Berkeley,,,M,46.0,,,74.0,01:23:40.00,,,,,
-74,Dan Jung,,,Berkeley,,,M,39.0,,,75.0,01:24:05.00,,,,,
-75,Demosthenes Stathis,,,Berkeley,,,M,37.0,,,76.0,01:24:58.00,,,,,
-76,Angie Longworth,,,Hercules,,,F,50.0,,,77.0,01:25:12.00,,,,,
-77,Yurie Lee,,,Richmond,,,F,37.0,,,78.0,01:25:16.00,,,,,
-78,Harry Huang,,Harry Huang,Oakland,,Oakland CA,M,34.0,34.0,,79.0,01:25:19.00,,,133.0,87.0,01:32:55.80
-79,Lessley Anderson,,,San Francisco,,,F,44.0,,,80.0,01:25:53.00,,,,,
-80,Robyn Shaffer,,,Kensington,,,F,29.0,,,81.0,01:26:01.00,,,,,
-81,Steven Shaffer,,,Davis,,,M,57.0,,,82.0,01:26:04.00,,,,,
-82,Anthony Behn,,,Kensington,,,M,33.0,,,83.0,01:26:05.00,,,,,
-83,Carrie Hahnel,,,Alameda,,,F,39.0,,,84.0,01:26:20.00,,,,,
-84,Dina Brasil,,,Oakland,,,F,36.0,,,85.0,01:26:26.00,,,,,
-85,Debra Cramer,Debra Cramer,Debra Cramer,Alameda,Alameda,Alameda CA,F,60.0,60.0,F 60-64,86.0,01:26:36.00,50.0,02:19:59.60,39.0,126.0,01:40:32.20
-86,Romy Menten,,,Delft The Netherlands,,,F,22.0,,,87.0,01:26:58.00,,,,,
-87,Fanny Peregrina,Fanny Peregrina,Fanny Peregrina,Richmond,Richmond,Richmond CA,F,43.0,43.0,F 40-44,88.0,01:27:04.00,70.0,02:33:23.80,95.0,123.0,01:39:00.40
-88,Grant Thompson,,,Berkeley,,,M,47.0,,,89.0,01:27:33.00,,,,,
-89,Heng (Jimmy) Wu,,,Albany,,,M,29.0,,,90.0,01:27:38.00,,,,,
-90,Terry Hill,Terry Hill,,Oakland,Oakland,,M,66.0,,M 65-69,91.0,01:27:42.00,36.0,02:10:27.40,,,
-91,Thomas Leibowitz,,,Oakland,,,M,51.0,,,92.0,01:27:57.00,,,,,
-92,Preston Sitterly,,,Sonoma,,,M,70.0,,,93.0,01:28:09.00,,,,,
-93,Rudy Van Pelt,Rudy Van Pelt,,Fremont,Fremont,,M,55.0,,M 55-59,94.0,01:28:34.00,45.0,02:15:37.13,,,
-94,Phil Chin,PHIL CHIN,Phil Chin,Castro Valley,CASTRO VALLEY,Castro Valley CA,M,58.0,58.0,M 55-59,95.0,01:29:12.00,44.0,02:15:13.90,70.0,88.0,01:33:07.40
-95,Brett Jones,,,Oakland,,,M,32.0,,,96.0,01:29:26.00,,,,,
-96,Evan Willey,,,Alameda,,,M,42.0,,,97.0,01:29:36.00,,,,,
-97,David Sandoval,,David Sandoval,Oakland,,Oakland CA,M,36.0,36.0,,98.0,01:29:46.00,,,85.0,49.0,01:23:21.90
-98,Daniel Peterson,,,Kensington,,,M,24.0,,,99.0,01:29:49.00,,,,,
-99,Valerie Lee,,,Berkeley,,,F,43.0,,,100.0,01:29:53.00,,,,,
-100,Deborah Arrington,Deborah Arrington,Deborah Arrington,El Sobrante,El Sobrante,El Sobrante CA,F,48.0,48.0,F 45-49,101.0,01:30:03.00,37.0,02:10:58.76,37.0,77.0,01:30:16.70
-101,Jeff Merken,,,Lafayette,,,M,57.0,,,102.0,01:30:07.00,,,,,
-102,Heather Jones,,,Davis,,,F,51.0,,,103.0,01:30:15.00,,,,,
-103,Alina del Rosario,,,Berkeley,,,F,23.0,,,104.0,01:30:36.00,,,,,
-104,Mike Zurko,,,Alameda,,,M,33.0,,,105.0,01:30:39.00,,,,,
-105,Mark Buhler,,,San Leandro,,,M,50.0,,,106.0,01:31:01.00,,,,,
-106,Todd McCarl,,,Concord,,,M,50.0,,,107.0,01:31:05.00,,,,,
-107,Sharlet Gilbert,,,Richmond,,,F,67.0,,,108.0,01:31:16.00,,,,,
-108,Mark Metcalfe,,,El Cerrito,,,M,49.0,,,109.0,01:31:25.00,,,,,
-109,Jenny Kinder,,Jenny Kinder,Berkeley,,Berkeley CA,F,54.0,54.0,,110.0,01:31:35.00,,,48.0,118.0,01:38:03.70
-110,Ken Sandberg,,Ken Sandberg,San Francisco,,San Francisco CA,M,48.0,48.0,,111.0,01:31:44.00,,,160.0,142.0,01:45:16.00
-111,Ahsan Mir,Ahsan Mir,Ahsan Mir,Berkeley,Berkeley,Berkeley CA,M,42.0,42.0,M 40-44,112.0,01:31:47.00,47.0,02:16:25.28,122.0,85.0,01:32:06.60
-112,Casey McNamara,,,Berkeley,,,M,53.0,,,113.0,01:32:13.00,,,,,
-113,Michelle Quinn,Michelle Quinn,Michelle Quinn,Oakland,Oakland,Oakland CA,F,54.0,54.0,F 50-54,114.0,01:32:17.00,82.0,02:41:45.22,90.0,152.0,01:48:13.80
-114,Ethan Ligon,,,Berkeley,,,M,51.0,,,115.0,01:32:20.00,,,,,
-115,Ed Weil,,,El Cerrito,,,M,63.0,,,116.0,01:32:54.00,,,,,
-116,Vicki DeMenno,,,Corte Madera,,,F,58.0,,,117.0,01:33:03.00,,,,,
-117,Grant Wilcox,,,Castro Valley,,,M,58.0,,,118.0,01:33:13.00,,,,,
-118,Megan Wheelehan,,,Oakland,,,F,33.0,,,119.0,01:33:27.00,,,,,
-119,Shannon Hagan,,,Oakland,,,F,41.0,,,120.0,01:33:50.00,,,,,
-120,Scott Brandon,Scott Brandon,Scott Brandon,Livermore,Livermore,Livermore CA,M,62.0,62.0,M 60-64,121.0,01:36:24.00,64.0,02:28:49.86,83.0,130.0,01:41:22.10
-121,Daniel Newbold,,,Berkley,,,M,41.0,,,122.0,01:37:17.00,,,,,
-122,Edmundo Vitocruz,Edmundo Vitocruz,Edmundo Vitocruz,San Leandro,San Leandro,San Leandro CA,M,51.0,51.0,M 50-54,123.0,01:37:24.00,56.0,02:22:59.31,124.0,127.0,01:40:38.00
-123,Jedediah Goddard,,,Alameda,,,M,38.0,,,124.0,01:37:29.00,,,,,
-124,Katherine Ogburn,,,Berkeley,,,F,48.0,,,125.0,01:37:49.00,,,,,
-125,Marina Christodoulides,,Marina Christodoulides,Oakland,,Oakland CA,F,33.0,33.0,,126.0,01:38:46.00,,,128.0,131.0,01:41:43.30
-126,Rosie Ward,,,Berkeley,,,F,26.0,,,127.0,01:39:21.00,,,,,
-127,Julios Ratti,Julios Ratti,Julios Ratti,Oakland,Oakland,Oakland CA,M,67.0,67.0,M 65-69,128.0,01:39:35.00,60.0,02:25:28.57,168.0,185.0,02:07:12.60
-128,Song Hong,,,oakland,,,M,46.0,,,129.0,01:39:43.00,,,,,
-129,Chris Roberts,,,Lafayette,,,M,48.0,,,130.0,01:39:56.00,,,,,
-130,Taylor Genzoli,,,Hilmar,,,M,34.0,,,131.0,01:40:01.00,,,,,
-131,Siddharth Sanghvi,,,Oakland,,,M,42.0,,,132.0,01:40:08.00,,,,,
-132,Miegan Riddle,,,San Francisco,,,F,30.0,,,133.0,01:40:11.00,,,,,
-133,Andrew Kallet,,,Mill Valley,,,M,62.0,,,134.0,01:40:15.00,,,,,
-134,Tamar Senyak,,,Berkeley,,,F,53.0,,,135.0,01:40:20.00,,,,,
-135,Lori Liu,,Lori Liu,Alameda,,Alameda CA,F,39.0,39.0,,136.0,01:40:24.00,,,126.0,128.0,01:41:08.90
-136,Christina Jennings,,,Larkspur,,,F,57.0,,,137.0,01:40:50.00,,,,,
-137,Richard Jennings,,,Larkspur,,,M,57.0,,,138.0,01:40:50.00,,,,,
-138,Marjorie Maggenti,,,Berkeley,,,F,54.0,,,139.0,01:41:00.00,,,,,
-139,Amy Boyd,Amy Boyd,Amy Boyd,Oakland,Oakland,Oakland CA,F,52.0,52.0,F 50-54,140.0,01:41:09.00,94.0,02:50:42.63,79.0,143.0,01:45:30.80
-140,Karen Reardanz,,,Alameda,,,F,45.0,,,141.0,01:41:14.00,,,,,
-141,Matt Lee,,Matt Lee,Walnut Creek,,Walnut Creek CA,M,45.0,45.0,,142.0,01:41:17.00,,,157.0,139.0,01:44:19.50
-142,Sean Jones,,Sean Jones,Oakland,,Oakland CA,M,30.0,30.0,,143.0,01:41:21.00,,,158.0,121.0,01:38:19.80
-143,Balaji Krishnamurthy,,,Oakland,,,M,33.0,,,144.0,01:41:31.00,,,,,
-144,Sarah Hauser,,Sarah Hauser,Oakland,,Oakland CA,F,30.0,30.0,,145.0,01:42:06.00,,,137.0,138.0,01:44:00.40
-145,Carol Bruton,,,Livermore,,,F,65.0,,,146.0,01:42:15.00,,,,,
-146,Tracey Luttrell,,,San Ramon,,,F,50.0,,,147.0,01:42:26.00,,,,,
-147,Justin Clark,,,Oakland,,,M,36.0,,,148.0,01:43:34.00,,,,,
-148,John Busco,,,San Jose,,,M,55.0,,,149.0,01:44:17.00,,,,,
-149,Liza Mudd,,,Oakland,,,F,30.0,,,150.0,01:44:20.00,,,,,
-150,Eddie Nguyen,,,Dublin,,,M,42.0,,,151.0,01:44:49.00,,,,,
-151,Joan Buhler,,,San Leandro,,,F,49.0,,,152.0,01:44:53.00,,,,,
-152,Annette Lee,Annette Lee,Annette Lee,Emeryville,Emeryville,Emeryville CA,F,59.0,59.0,F 55-59,153.0,01:46:22.00,102.0,02:54:50.81,105.0,165.0,01:55:24.00
-153,Deb Schneider,,,Oakland,,,F,43.0,,,154.0,01:46:24.00,,,,,
-154,Neha Bazaj,,,Oakland,,,F,29.0,,,155.0,01:47:01.00,,,,,
-155,Susan Moser,Susan Moser,Susan Moser,San Lorenzo,San Lorenzo,San Lorenzo CA,F,55.0,55.0,F 55-59,156.0,01:48:00.00,96.0,02:53:56.93,88.0,160.0,01:53:05.00
-156,Christina Paul,,Christina Paul,Piedmont,,Piedmont CA,F,39.0,39.0,,157.0,01:48:45.00,,,153.0,150.0,01:47:43.50
-157,Anjuna Lohnes,,,Oakland,,,F,40.0,,,158.0,01:48:48.00,,,,,
-158,David Klinetobe,David Klinetobe,,San Rafael,San Rafael,,M,57.0,,M 55-59,159.0,01:49:06.00,123.0,03:15:05.47,,,
-159,Dan Boone,,Dan Boone,Berkeley,,Berkeley CA,M,75.0,75.0,,160.0,01:49:17.00,,,100.0,175.0,01:59:50.10
-160,May Chen,,May Chen,Castro Valley,,Castro Valley CA,F,47.0,47.0,,161.0,01:50:24.00,,,163.0,172.0,01:59:14.30
-161,Elizabeth Cantwell,,,El Cerrito,,,F,43.0,,,162.0,01:50:36.00,,,,,
-162,Jeffrey Cohen,,,El Cerrito,,,M,66.0,,,163.0,01:50:53.00,,,,,
-163,Midori Lambert,,,Piedmont,,,F,44.0,,,164.0,01:51:30.00,,,,,
-164,Sarah Windels,,,Oakland,,,F,39.0,,,165.0,01:51:31.00,,,,,
-165,Tillie Margulies,,,Berkeley,,,F,13.0,,,166.0,01:53:43.00,,,,,
-166,Rebecca Margulies,,,Berkeley,,,F,46.0,,,167.0,01:53:47.00,,,,,
-167,Hugh Rodman,,,Berkeley,,,M,47.0,,,168.0,01:53:49.00,,,,,
-168,Sarah Liu,,,Berkeley,,,F,52.0,,,169.0,01:54:06.00,,,,,
-169,Estefana Ramos,,,Oakland,,,F,32.0,,,170.0,01:54:12.00,,,,,
-170,Sean Johnson,,,Point Richmond,,,M,48.0,,,171.0,01:54:26.00,,,,,
-171,Annemarie Henning,,Annemarie Henning,Oakland,,Oakland CA,F,47.0,47.0,,172.0,01:54:43.00,,,167.0,177.0,02:00:58.80
-172,Anna Reschar,,,Emeryville,,,F,56.0,,,173.0,01:55:58.00,,,,,
-173,Rachel Lorenz,,,Orinda,,,F,61.0,,,174.0,01:56:37.00,,,,,
-174,Sarah Nagel,,,Berkeley,,,F,31.0,,,175.0,01:56:52.00,,,,,
-175,Judith Gallman,Judith Gallman,Judth Gallman,Oakland,Oakland,Oakland CA,F,57.0,57.0,F 55-59,176.0,01:57:51.00,115.0,03:05:48.33,108.0,166.0,01:56:02.30
-176,Janet Foote,,,Scottsdale AZ,,,F,59.0,,,177.0,01:59:20.00,,,,,
-177,Natalie MacIntyre,,,Oakland,,,F,31.0,,,178.0,02:00:57.00,,,,,
-178,Marylou E. Morris,Marylou E Morris,Marylou E Morris,Hayward,Hayward,Hayward CA,F,61.0,61.0,F 60-64,179.0,02:03:00.00,117.0,03:06:44.70,142.0,180.0,02:04:07.50
-179,Patricia Gonzalez,,,Oakland,,,F,55.0,,,180.0,02:04:28.00,,,,,
-180,Hoa On,,Hoa On,Oakland,,Oakland CA,F,46.0,46.0,,181.0,02:06:43.00,,,190.0,193.0,02:24:30.10
-181,Rachel Tibbetts,,Rachel Tibbetts,Oakland,,Oakland CA,F,39.0,39.0,,182.0,02:16:58.00,,,192.0,190.0,02:16:36.40
-182,Jessica Kovac,,,Cloudcroft NM,,,F,36.0,,,183.0,02:25:15.00,,,,,
-183,Geores Clevenger,,,Berkeley,,,M,81.0,,,184.0,02:37:09.00,,,,,
-184,,Vladimir Glavtchev,,,Castro Valley,,M,,,M 30-34,,,1.0,01:32:19.86,,,
-185,,andrew fisher,,,Berkeley,,M,,,M 40-44,,,3.0,01:39:45.30,,,
-186,,Paul Reichardt,,,Castro Valley,,M,,,M 40-44,,,4.0,01:41:01.27,,,
-187,,Brendan Galvin,,,Menlo Park,,M,,,M 40-44,,,5.0,01:42:30.55,,,
-188,,Jeffrey Huizinga,Jeffrey Huizinga,,Burlingame,Burlingame CA,M,,36.0,M 35-39,,,6.0,01:43:13.82,45.0,13.0,01:13:22.00
-189,,Matt Sheehy,,,San Francisco,,M,,,M 40-44,,,8.0,01:43:42.36,,,
-190,,Peter Hsia,Peter Hsia,,San Francisco,San Francisco CA,M,,57.0,M 55-59,,,12.0,01:50:23.30,5.0,18.0,01:15:49.10
-191,,Eli Rykoff,,,Castro Valley,,M,,,M 40-44,,,13.0,01:51:49.74,,,
-192,,Efrem Rensi,Efrem Rensi,,Oakland,Oakland CA,M,,46.0,M 45-49,,,14.0,01:53:00.10,54.0,43.0,01:21:52.90
-193,,Lubomir Sebo,,,Hayward,,M,,,M 45-49,,,15.0,01:54:06.31,,,
-194,,Anders Schneider,,,Palo Alto,,M,,,M 18-29,,,16.0,01:56:51.50,,,
-195,,Michael Kuo,,,Fremont,,M,,,M 45-49,,,17.0,01:57:38.52,,,
-196,,Nico Raffo,,,Berkeley,,M,,,M 35-39,,,18.0,01:58:02.68,,,
-197,,Claire Blaney,,,Oakland,,F,,,F 40-44,,,19.0,01:58:48.37,,,
-198,,James Shirley,,,San Francisco,,M,,,M 18-29,,,20.0,01:59:39.99,,,
-199,,Lucas Chaney,,,Oakland,,M,,,M 1-17,,,22.0,02:00:33.23,,,
-200,,Gino Mendoza,,,Oakley,,M,,,M 50-54,,,23.0,02:00:51.51,,,
-201,,Justin Walcott-Ayers,,,San Bruno,,M,,,M 35-39,,,25.0,02:02:12.68,,,
-202,,Molly Whittaker,,,San Francisco,,F,,,F 35-39,,,26.0,02:03:07.31,,,
-203,,Steve Delany,,,Oakland,,M,,,M 30-34,,,27.0,02:03:54.80,,,
-204,,Clint Williams,,,Walnut Creek,,M,,,M 55-59,,,29.0,02:05:50.90,,,
-205,,Nicole Crone,,,San Francisco,,F,,,F 30-34,,,30.0,02:06:15.44,,,
-206,,Thomas Frantzen,,,San Mateo,,M,,,M 30-34,,,31.0,02:08:28.55,,,
-207,,Cosma Kufa,,,San Francisco,,M,,,M 18-29,,,33.0,02:10:02.93,,,
-208,,Daniel Bell,,,Hillsborough,,M,,,M 30-34,,,34.0,02:10:19.38,,,
-209,,Alexander Noakes,,,Castro Valley,,M,,,M 18-29,,,35.0,02:10:23.80,,,
-210,,Andy Harris,,,Sacramento,,M,,,M 55-59,,,38.0,02:12:01.91,,,
-211,,Luba Romankevich,,,San Francisco,,F,,,F 30-34,,,39.0,02:13:25.94,,,
-212,,Baldwyn Chieh,,,Castro Valley,,M,,,M 45-49,,,40.0,02:13:29.80,,,
-213,,David Sanker,,,Dublin,,M,,,M 50-54,,,41.0,02:13:55.92,,,
-214,,Ronald Poggi,,,Novato,,M,,,M 50-54,,,42.0,02:14:08.95,,,
-215,,Darrell White,,,Hayward,,M,,,M 18-29,,,46.0,02:15:44.31,,,
-216,,Brian Copeland,,,San Francisco,,M,,,M 18-29,,,48.0,02:17:28.13,,,
-217,,Erin Hestir,,,Merced,,F,,,F 35-39,,,49.0,02:18:00.91,,,
-218,,William Sharwood,,,Fresno,,M,,,M 18-29,,,51.0,02:19:59.84,,,
-219,,Michael Lum,,,Berkeley,,M,,,M 30-34,,,52.0,02:20:50.00,,,
-220,,Jay Zelenkov,,,Nevada City,,M,,,M 30-34,,,53.0,02:20:50.15,,,
-221,,Michael DelGaudio,,,Mountain View,,M,,,M 35-39,,,54.0,02:21:34.17,,,
-222,,Kelly Boylan,,,Oakland,,F,,,F 30-34,,,55.0,02:21:43.30,,,
-223,,Zena Harvill,,,Oakland,,F,,,F 35-39,,,57.0,02:24:24.60,,,
-224,,Kara Harvill,,,Oakland,,F,,,F 30-34,,,58.0,02:24:24.21,,,
-225,,Amber Ritchie,Amber Ritchie,,Alameda,Alameda CA,F,,30.0,F 30-34,,,59.0,02:24:32.43,120.0,122.0,01:38:26.20
-226,,Tony Tan,,,San Francisco,,M,,,M 55-59,,,61.0,02:27:01.11,,,
-227,,Marco Meniketti,,,Castro Valley,,M,,,M 60-64,,,62.0,02:27:26.25,,,
-228,,Amariah Fuller,,,Oakland,,M,,,M 35-39,,,63.0,02:28:20.60,,,
-229,,Ryan Hoyt,,,San Francisco,,M,,,M 18-29,,,65.0,02:29:42.47,,,
-230,,Christina Nakamura,,,San Jose,,F,,,F 30-34,,,66.0,02:30:24.51,,,
-231,,Milton Lorig,,,Oakland,,M,,,M 65-69,,,67.0,02:30:42.38,,,
-232,,Kirk Boisseree,,,Fremont,,M,,,M 60-64,,,68.0,02:33:15.47,,,
-233,,Derek Racine,,,San Francisco,,M,,,M 18-29,,,69.0,02:33:22.55,,,
-234,,VAN Luong,,,San Jose,,F,,,F 35-39,,,71.0,02:34:54.12,,,
-235,,Kimball Wong,,,Hayward,,M,,,M 60-64,,,72.0,02:34:59.43,,,
-236,,Suhl Chin,,,San Francisco,,F,,,F 60-64,,,73.0,02:35:29.30,,,
-237,,Matt Chan,Matthew Chan,,Berkeley,Berkeley CA,M,,32.0,M 30-34,,,74.0,02:35:41.89,115.0,67.0,01:28:00.50
-238,,Thomas Keenan,,,Alameda,,M,,,M 55-59,,,75.0,02:36:17.37,,,
-239,,Wayne Cheng,,,Sunnyvale,,M,,,M 35-39,,,76.0,02:37:11.57,,,
-240,,Matthew Arterburn,,,Livermore,,M,,,M 40-44,,,77.0,02:37:31.68,,,
-241,,Thuy Le,,,Dublin,,F,,,F 40-44,,,78.0,02:37:51.66,,,
-242,,christopher wachter,,,Oakland,,M,,,M 30-34,,,79.0,02:37:56.85,,,
-243,,Jourdan Lieblich,,,San Ramon,,M,,,M 18-29,,,80.0,02:39:36.88,,,
-244,,Brian Buddell,,,Clayton,,M,,,M 50-54,,,81.0,02:40:35.14,,,
-245,,Claire Ames,,,Oakland,,F,,,F 45-49,,,83.0,02:42:19.41,,,
-246,,Chris Rogers,Chris Rogers,,Hercules,Hercules CA,M,,61.0,M 60-64,,,84.0,02:43:01.74,148.0,164.0,01:55:18.60
-247,,RUBI RUIZ,,,Harbor City,,F,,,F 35-39,,,85.0,02:43:07.57,,,
-248,,Christy Bentivoglio,,,San Ramon,,F,,,F 45-49,,,86.0,02:43:52.72,,,
-249,,Joseph Xie,,,Castro Valley,,M,,,M 40-44,,,87.0,02:45:19.33,,,
-250,,Robert Scott Johnson,,,San Francisco,,M,,,M 45-49,,,88.0,02:47:12.30,,,
-251,,Guneet Singh,,,Santa Clara,,M,,,M 40-44,,,89.0,02:47:37.22,,,
-252,,Thomas Swain,,,Walnut Creek,,M,,,M 55-59,,,90.0,02:47:45.82,,,
-253,,Rhett Bratt,,,Walnut Creek,,M,,,M 55-59,,,91.0,02:47:45.92,,,
-254,,Bart Simmons,,,Walnut Creek,,M,,,M 65-69,,,92.0,02:48:16.27,,,
-255,,Miyuki Hasegawa,,,San Francisco,,F,,,F 40-44,,,93.0,02:49:20.35,,,
-256,,Sravan K,,,Fremont,,M,,,M 35-39,,,95.0,02:51:30.60,,,
-257,,Andrew Ross,,,Berkeley,,M,,,M 30-34,,,97.0,02:54:06.50,,,
-258,,Sue Zanne Tan,,,Berkeley,,F,,,F 18-29,,,98.0,02:54:06.75,,,
-259,,Sierra Gibson,,,Castro Valley,,F,,,F 18-29,,,99.0,02:54:36.85,,,
-260,,Pete Gibson,,,San Leandro,,M,,,M 50-54,,,100.0,02:54:37.53,,,
-261,,Diego Tapia,,,Salinas,,M,,,M 40-44,,,101.0,02:54:42.38,,,
-262,,BARRY WITT,,,Castro Valley,,M,,,M 40-44,,,103.0,02:55:20.70,,,
-263,,Robert Root,,,Modesto,,M,,,M 55-59,,,104.0,02:57:10.30,,,
-264,,Daren Short,,,Modesto,,M,,,M 50-54,,,105.0,02:57:15.29,,,
-265,,Michelle Wright,,,Hayward,,F,,,F 18-29,,,106.0,02:57:25.20,,,
-266,,Bill Ralyea,Bill Ralyea,,Walnut Creek,Walnut Creek CA,M,,63.0,M 60-64,,,107.0,02:59:23.79,146.0,162.0,01:55:05.70
-267,,Adan Tejada,,,Moraga,,M,,,M 55-59,,,108.0,02:59:35.46,,,
-268,,Pamela Ben Rached,,,Castro Valley,,F,,,F 50-54,,,109.0,03:00:00.60,,,
-269,,Paul Fink,,,Palo Alto,,M,,,M 65-69,,,110.0,03:01:47.57,,,
-270,,Emily Richmond,,,San Francisco,,F,,,F 30-34,,,111.0,03:02:40.91,,,
-271,,VANESSA HERNANDEZ,,,Oakland,,F,,,F 18-29,,,112.0,03:02:43.55,,,
-272,,Mark Shinners,,,Union City,,M,,,M 65-69,,,113.0,03:03:07.99,,,
-273,,Jennifer Frisbie,Jennifer Frisbie,,Oakland,Oakland CA,F,,36.0,F 35-39,,,114.0,03:04:00.96,179.0,168.0,01:57:13.30
-274,,Linda Robinson,,,Danville,,F,,,F 65-69,,,116.0,03:05:50.15,,,
-275,,ria boyce,,,Castro Valley,,F,,,F 30-34,,,118.0,03:08:24.65,,,
-276,,Anna Glezer,,,Burlingame,,F,,,F 35-39,,,119.0,03:09:11.41,,,
-277,,Cres Bruns,,,Stockton,,F,,,F 60-64,,,120.0,03:10:34.69,,,
-278,,Isabel Lau,,,San Ramon,,F,,,F 55-59,,,121.0,03:11:17.17,,,
-279,,Nitasha Witt,,,Castro Valley,,F,,,F 35-39,,,122.0,03:11:41.17,,,
-280,,Luvey Deweber,,,,,M,,,M 55-59,,,124.0,03:15:37.31,,,
-281,,Mark Asbill,,,Los Alamitos,,M,,,M 65-69,,,125.0,03:17:38.00,,,
-282,,Patti Carr,,,,,F,,,F 50-54,,,126.0,03:22:41.59,,,
-283,,Sylvia Shapiro,,,Castro Valley,,F,,,F 50-54,,,127.0,03:23:22.25,,,
-284,,Ernestine Lee,,,Berkeley,,F,,,F 60-64,,,128.0,03:26:02.24,,,
-285,,S. Alba,,,Sacramento,,F,,,F 1-17,,,129.0,03:28:10.10,,,
-286,,Charles Kplock,,,,,M,,,M 45-49,,,130.0,03:32:34.10,,,
-287,,Heidi Broker,,,Tracy,,F,,,F 45-49,,,131.0,03:38:05.38,,,
-288,,Naomi Alba,,,Sacramento,,F,,,F 1-17,,,132.0,03:39:54.76,,,
-289,,Judith Bayardo-Guzman,,,Merced,,F,,,F 18-29,,,133.0,03:40:11.12,,,
-290,,Joceline Santiago,,,Stockton,,F,,,F 18-29,,,134.0,03:40:11.47,,,
-291,,Jerome Hicks,,,Modesto,,M,,,M 55-59,,,135.0,03:43:42.64,,,
-292,,john macdonald,,,Castro Valley,,M,,,M 55-59,,,136.0,03:46:13.70,,,
-293,,David Hill,,,Modesto,,M,,,M 55-59,,,137.0,03:48:21.63,,,
-294,,Liz Dunbar,,,Castro Valley,,F,,,F 60-64,,,138.0,03:59:41.78,,,
-295,,Angela Preston,,,Seaside,,F,,,F 18-29,,,139.0,04:19:21.91,,,
-296,,,Bradford Bryon,,,Penngrove CA,M,,60.0,,,,,,1.0,11.0,01:12:30.00
-297,,,Crosby Freeman,,,San Francisco CA,M,,34.0,,,,,,2.0,2.0,00:56:55.90
-298,,,Paul Balmer,,,Berkeley CA,M,,28.0,,,,,,4.0,1.0,00:55:51.70
-299,,,Ben Eversole,,,Oakland CA,M,,25.0,,,,,,7.0,4.0,01:00:37.60
-300,,,Joseph Stefani,,,San Francisco CA,M,,61.0,,,,,,8.0,44.0,01:21:56.10
-301,,,Steven Stenberg,,,Novato CA,M,,57.0,,,,,,9.0,29.0,01:17:33.00
-302,,,Joe Schieffer,,,Oakland CA,M,,67.0,,,,,,10.0,66.0,01:27:48.00
-303,,,Michael Broom,,,Mill Valley CA,M,,40.0,,,,,,11.0,5.0,01:06:40.30
-304,,,Matthew Brown,,,San Francisco CA,M,,40.0,,,,,,123.0,86.0,01:32:33.80
-305,,,Elizabeth Ross,,,Oakland CA,F,,51.0,,,,,,12.0,70.0,01:28:41.70
-306,,,Anne Mason,,,Oakland CA,F,,52.0,,,,,,13.0,73.0,01:29:25.90
-307,,,Todd Stevenot,,,Petaluma CA,M,,55.0,,,,,,14.0,34.0,01:19:39.20
-308,,,Felix Menjivar,,,South San Francisco CA,M,,13.0,,,,,,15.0,17.0,01:15:40.60
-309,,,Scott Donnellan,,,Mill Valley CA,M,,60.0,,,,,,16.0,56.0,01:25:05.30
-310,,,Steve Gregg,,,Oakland CA,M,,61.0,,,,,,17.0,58.0,01:25:38.80
-311,,,Kyle Robinson,,,Hayward CA,M,,30.0,,,,,,18.0,7.0,01:06:54.50
-312,,,Kelsey Tierney,,,,F,,20.0,,,,,,19.0,27.0,01:17:08.00
-313,,,Dave Covey,,,Kentfield CA,M,,57.0,,,,,,20.0,37.0,01:21:12.60
-314,,,John Hake,,,Oakland CA,M,,57.0,,,,,,21.0,42.0,01:21:51.20
-315,,,Vanessa Kobza,,,Berkeley CA,F,,31.0,,,,,,23.0,31.0,01:18:47.10
-316,,,Alec Randall,,,Oakland CA,M,,45.0,,,,,,24.0,16.0,01:14:47.80
-317,,,Jesus Romo,,,Oakland CA,M,,29.0,,,,,,25.0,6.0,01:06:53.30
-318,,,Jen Odom,,,Oakland CA,F,,39.0,,,,,,26.0,32.0,01:19:07.10
-319,,,Jesse Lueders,,,Oakland CA,M,,32.0,,,,,,27.0,8.0,01:09:12.70
-320,,,Jim Flanigan,,,Davis CA,M,,68.0,,,,,,28.0,89.0,01:33:23.60
-321,,,Sarah Levesque,,,San Francisco CA,F,,46.0,,,,,,29.0,71.0,01:28:41.80
-322,,,Caslyn Tonelli,,,Oakland CA,F,,30.0,,,,,,30.0,35.0,01:19:51.90
-323,,,John Spriggs,,,El Cerrito CA,M,,57.0,,,,,,31.0,52.0,01:23:57.10
-324,,,Thomas Smith,,,Berkeley CA,M,,36.0,,,,,,32.0,9.0,01:10:12.60
-325,,,Bud Parer,,,Novato CA,M,,55.0,,,,,,33.0,53.0,01:24:14.50
-326,,,Randall Conner,,,South San Francisco CA,M,,49.0,,,,,,34.0,22.0,01:16:16.70
-327,,,Pedro Cifuentes,,,San Rafael CA,M,,40.0,,,,,,36.0,10.0,01:12:26.70
-328,,,David Leipsic,,,San Rafael CA,M,,53.0,,,,,,38.0,39.0,01:21:24.90
-329,,,Doug Fontaine,,,Berkeley CA,M,,52.0,,,,,,41.0,47.0,01:22:38.40
-330,,,Ken Kalman,,,Canyon CA,M,,62.0,,,,,,42.0,83.0,01:31:52.30
-331,,,Matthew Bell,,,San Francisco CA,M,,31.0,,,,,,43.0,12.0,01:12:55.10
-332,,,Dave Latner,,,San Francisco CA,M,,60.0,,,,,,44.0,84.0,01:32:03.60
-333,,,Julie Sigoloff,,,Albany CA,F,,55.0,,,,,,46.0,134.0,01:42:30.20
-334,,,Nicola James,,,Lafayette CA,F,,54.0,,,,,,47.0,117.0,01:37:52.00
-335,,,Michael Boland,,,Richmond CA,M,,46.0,,,,,,49.0,36.0,01:20:17.90
-336,,,Isaac Gonzalez,,,El Cerrito CA,M,,40.0,,,,,,50.0,25.0,01:16:41.40
-337,,,Peter Hake,,,Oakland CA,M,,13.0,,,,,,51.0,55.0,01:24:53.80
-338,,,Mark Dykhouse,,,Lafayette CA,M,,65.0,,,,,,52.0,124.0,01:39:32.30
-339,,,Wyatt Ellis,,,Golden CA,M,,21.0,,,,,,55.0,14.0,01:13:57.00
-340,,,Peter McElroy,,,San Francisco CA,M,,31.0,,,,,,56.0,20.0,01:16:07.60
-341,,,Peter Kozelka,,,Albany CA,M,,58.0,,,,,,57.0,75.0,01:30:08.20
-342,,,Rory Hamaoka,,,Richmond CA,M,,37.0,,,,,,58.0,21.0,01:16:14.20
-343,,,Anna Blinstein,,,San Mateo CA,F,,37.0,,,,,,59.0,62.0,01:26:56.70
-344,,,Dave Parrish,,,San Francisco CA,M,,44.0,,,,,,60.0,33.0,01:19:09.30
-345,,,Mark Tipton,,,Piedmont CA,M,,57.0,,,,,,61.0,80.0,01:31:13.70
-346,,,James Jirn,,,Oakland CA,M,,51.0,,,,,,63.0,64.0,01:27:28.80
-347,,,Constance Bailey,,,El Cerrito CA,F,,30.0,,,,,,64.0,65.0,01:27:44.50
-348,,,Andrew O’rourke,,,Novato CA,M,,32.0,,,,,,66.0,30.0,01:18:03.90
-349,,,Tim Drew,,,Oakland CA,M,,50.0,,,,,,67.0,69.0,01:28:20.30
-350,,,Cate McManus,,,Alameda CA,F,,50.0,,,,,,68.0,136.0,01:42:56.30
-351,,,Philip Say,,,Orinda CA,M,,51.0,,,,,,71.0,72.0,01:29:13.90
-352,,,Naomi Ziesmer,,,Walnut Creek CA,F,,30.0,,,,,,73.0,74.0,01:30:02.90
-353,,,Jack Zakarian,,,Orinda CA,M,,66.0,,,,,,75.0,140.0,01:44:43.30
-354,,,Julia Green,,,Oakland CA,F,,32.0,,,,,,76.0,79.0,01:31:05.20
-355,,,Maureen Giblin,,,Berkeley CA,F,,44.0,,,,,,77.0,98.0,01:35:10.40
-356,,,Arielle Slam,,,Oakland CA,F,,33.0,,,,,,78.0,81.0,01:31:19.60
-357,,,Jordan Smith,,,Alameda CA,M,,33.0,,,,,,80.0,40.0,01:21:42.00
-358,,,Adrian Paul,,,San Leandro CA,M,,35.0,,,,,,81.0,45.0,01:21:57.40
-359,,,Gene Gorelik,,,Oakland CA,M,,33.0,,,,,,82.0,46.0,01:22:21.40
-360,,,David Ly-Gagnon,,,,M,,31.0,,,,,,84.0,48.0,01:22:49.40
-361,,,John Gieng,,,San Francisco CA,M,,39.0,,,,,,86.0,50.0,01:23:29.30
-362,,,Joel Sowder,,,Somerville,M,,56.0,,,,,,87.0,116.0,01:37:47.20
-363,,,Kathryn Rose,,,Oakland CA,F,,39.0,,,,,,89.0,91.0,01:34:13.70
-364,,,John Cheetham,,,San Rafael CA,M,,51.0,,,,,,91.0,92.0,01:34:22.10
-365,,,Mark Liebthal,,,Oakland CA,M,,54.0,,,,,,92.0,93.0,01:34:44.30
-366,,,Alan Jung,,,Oakland CA,M,,51.0,,,,,,93.0,94.0,01:34:45.50
-367,,,Amelia Wood,,,Oakland CA,F,,33.0,,,,,,94.0,96.0,01:34:54.60
-368,,,Emily Caplan,,,Brookline,F,,26.0,,,,,,97.0,100.0,01:35:22.90
-369,,,Kenan Courtney,,,Berkeley CA,M,,25.0,,,,,,98.0,51.0,01:23:31.50
-370,,,Christian Areas,,,Berkeley CA,M,,36.0,,,,,,99.0,59.0,01:25:49.70
-371,,,Ashley Hazel,,,San Francisco CA,F,,40.0,,,,,,102.0,125.0,01:39:57.50
-372,,,Jay Radner,,,Oakland CA,M,,50.0,,,,,,103.0,102.0,01:36:01.00
-373,,,Michael Jack,,,Danville CA,M,,51.0,,,,,,104.0,104.0,01:36:17.00
-374,,,Abbey Dykhouse,,,Oakland CA,F,,33.0,,,,,,107.0,108.0,01:36:49.20
-375,,,Mike Landucci,,,Oakland CA,M,,58.0,,,,,,109.0,129.0,01:41:11.80
-376,,,Anna Kurtz,,,Albany CA,F,,37.0,,,,,,110.0,112.0,01:37:21.10
-377,,,Natalie Sandoval,,,Seattle WA,F,,33.0,,,,,,111.0,113.0,01:37:26.90
-378,,,Alan Burkett,,,Albany CA,M,,61.0,,,,,,112.0,144.0,01:46:31.60
-379,,,Jessica Sawczuk,,,Oakland CA,F,,35.0,,,,,,113.0,114.0,01:37:33.50
-380,,,Rachel Latta,,,Oakland CA,F,,35.0,,,,,,114.0,115.0,01:37:44.00
-381,,,Alan Whippy,,,Alamo CA,F,,65.0,,,,,,117.0,178.0,02:02:14.30
-382,,,Hannah Turner,,,San Francisco CA,F,,27.0,,,,,,118.0,120.0,01:38:16.20
-383,,,Paul Mei,,,Oakland CA,M,,20.0,,,,,,119.0,61.0,01:26:18.60
-384,,,Freddy Fernandez,,,South San Francisco CA,M,,42.0,,,,,,121.0,78.0,01:30:42.40
-385,,,Paul Barnes,,,San Francisco CA,M,,37.0,,,,,,127.0,82.0,01:31:28.10
-386,,,Kitaho Kato,,,Oakland CA,F,,39.0,,,,,,129.0,132.0,01:42:03.30
-387,,,Stephen Way,,,San Francisco CA,M,,46.0,,,,,,130.0,119.0,01:38:06.60
-388,,,Chelsea Turner,,,San Francisco CA,F,,27.0,,,,,,131.0,135.0,01:42:35.30
-389,,,Gregory Verrilli,,,Emeryville CA,M,,41.0,,,,,,132.0,95.0,01:34:52.00
-390,,,Suhaib Abdali,,,Oakland PAID,M,,43.0,,,,,,134.0,97.0,01:34:55.90
-391,,,David Davis,,,Berkeley CA,M,,44.0,,,,,,135.0,99.0,01:35:20.20
-392,,,Will Roscoe,,,Oakland CA,M,,34.0,,,,,,136.0,90.0,01:33:55.40
-393,,,Oscar Osorio,,,Daly City CA,M,,41.0,,,,,,138.0,105.0,01:36:21.20
-394,,,Will Rose,,,Oakland CA,M,,43.0,,,,,,139.0,107.0,01:36:34.70
-395,,,Kristina Montgomery,,,Berkeley CA,F,,33.0,,,,,,140.0,141.0,01:44:50.30
-396,,,Lidia Deleon,,,Daly City CA,F,,42.0,,,,,,141.0,154.0,01:49:03.40
-397,,,Matthew Mintzias,,,Irvine CA,M,,31.0,,,,,,143.0,101.0,01:35:37.50
-398,,,Susan Lo,,,Oakland CA,F,,52.0,,,,,,144.0,174.0,01:59:40.30
-399,,,Devin Coyle,,,Moraga CA,M,,37.0,,,,,,145.0,103.0,01:36:03.10
-400,,,Adam Fragen,,,Walnut Creek CA,M,,49.0,,,,,,147.0,133.0,01:42:10.00
-401,,,Benjamin Woskow,,,Oakland CA,M,,33.0,,,,,,149.0,106.0,01:36:25.60
-402,,,Helen Blackmore,,,Berkeley CA,F,,29.0,,,,,,150.0,146.0,01:46:49.90
-403,,,Jesse McKeithen,,,Oakland CA,M,,39.0,,,,,,151.0,110.0,01:37:01.00
-404,,,Lauren Morrison,,,Oakland CA,F,,31.0,,,,,,152.0,148.0,01:47:17.40
-405,,,Susan Pilipauskas,,,Oakland CA,F,,41.0,,,,,,154.0,157.0,01:51:44.70
-406,,,Tim Danison,,,San Francisco CA,M,,51.0,,,,,,155.0,151.0,01:47:57.60
-407,,,Lucy Stevenot,,,Novato CA,F,,27.0,,,,,,156.0,153.0,01:48:14.10
-408,,,Kin Seng Wong,,,Alameda CA,M,,23.0,,,,,,159.0,111.0,01:37:14.70
-409,,,Lena Nicodemus,,,Oakland CA,F,,28.0,,,,,,161.0,155.0,01:49:23.40
-410,,,Heidi Faria,,,San Leandro CA,F,,42.0,,,,,,162.0,161.0,01:54:03.50
-411,,,Myrna Stevenot,,,San Rafael CA,F,,27.0,,,,,,164.0,156.0,01:50:34.80
-412,,,Rasmus Olsson,,,Lafayette CA,M,,50.0,,,,,,165.0,158.0,01:51:51.80
-413,,,Rosie O'Hara,,,San Francisco CA,F,,30.0,,,,,,166.0,159.0,01:51:55.80
-414,,,Marc Glogowsky,,,Oakland CA,M,,31.0,,,,,,169.0,137.0,01:43:36.40
-415,,,Scott Osmus,,,Walnut Creek CA,M,,58.0,,,,,,170.0,169.0,01:57:42.30
-416,,,Gina Hewlett,,,Walnut Creek CA,F,,46.0,,,,,,171.0,179.0,02:03:45.10
-417,,,Andria Eguia,,,Oakland CA,F,,44.0,,,,,,172.0,171.0,01:59:07.30
-418,,,Bailey Siewert,,,Hayward CA,F,,31.0,,,,,,173.0,163.0,01:55:11.80
-419,,,David Koo,,,Oakland CA,M,,40.0,,,,,,174.0,149.0,01:47:25.40
-420,,,Jen French,,,Oakland CA,F,,45.0,,,,,,175.0,181.0,02:04:28.00
-421,,,Jennifer Nyman,,,Oakland CA,F,,41.0,,,,,,176.0,176.0,01:59:56.10
-422,,,Candie Ticong,,,Oakland CA,M,,36.0,,,,,,177.0,145.0,01:46:41.50
-423,,,Mark Campbell,,,Alameda CA,M,,36.0,,,,,,178.0,147.0,01:47:04.80
-424,,,Kim Whippy,,,Napa CA,F,,33.0,,,,,,180.0,170.0,01:58:14.40
-425,,,Ellen Daly,,,Berkeley CA,F,,41.0,,,,,,181.0,186.0,02:07:41.70
-426,,,Emily Miller,,,Oakland CA,F,,34.0,,,,,,182.0,182.0,02:04:30.70
-427,,,Daniela Schiano Di Cola,,,Oakland CA,F,,30.0,,,,,,183.0,184.0,02:06:50.90
-428,,,Brittanee Parker,,,Hayward CA,F,,25.0,,,,,,184.0,187.0,02:08:44.70
-429,,,Esmeralda Munoz,,,San Joze CA,F,,36.0,,,,,,185.0,188.0,02:08:58.30
-430,,,Cristian Cervantes,,,San Jose CA,M,,26.0,,,,,,186.0,167.0,01:56:58.60
-431,,,Mike Knapp,,,Walnut Creek CA,M,,31.0,,,,,,187.0,173.0,01:59:31.40
-432,,,Jan Tiedemann,,,Healdsburg CA,F,,58.0,,,,,,188.0,194.0,02:30:45.80
-433,,,Jared Grippe,,,Oakland CA,M,,35.0,,,,,,189.0,183.0,02:05:08.90
-434,,,Tra Nguyen,,,Oakland CA,F,,30.0,,,,,,191.0,189.0,02:16:14.10
-435,,,Claire McCabe,,,Castro Valley CA,F,,38.0,,,,,,193.0,191.0,02:16:38.40
-436,,,Heather Appel,,,Oakland CA,F,,40.0,,,,,,194.0,192.0,02:20:55.50
-437,,,Diane Adele,,,Antioch CA,F,,56.0,,,,,,195.0,195.0,02:42:43.00
+name_full_ttt,name_full_lc,name_full_wm,city_ttt,city_lc,city_wm,gender,age_ttt,age_wm,division_lc,position_ttt,time_gun_ttt,position_lc,time_gun_lc,position_handicap_wm,position_gun_wm,time_gun_wm
+Sam Robinson,,Sam Robinson,Oakland,,Oakland CA,M,33.0,33.0,,1.0,00:57:40.00,,,3.0,3.0,00:57:21.10
+Doug Howard,,,Oakland,,,M,37.0,,,2.0,00:59:32.00,,,,,
+Peter Battaglino,Peter Battaglino,,Oakland,Oakland,,M,34.0,,M 30-34,3.0,01:04:06.00,2.0,01:35:04.91,,,
+David Weisgerber,,,Livermore,,,M,33.0,,,4.0,01:04:46.00,,,,,
+Pete Sikora,,,Berkeley,,,M,32.0,,,5.0,01:04:54.00,,,,,
+Caitlin Smith,,,Oakland,,,F,37.0,,,6.0,01:05:56.00,,,,,
+Linn Schulte-Sasse,,,Piedmont,,,F,40.0,,,7.0,01:06:05.00,,,,,
+Kenneth Handel,,,Oakland,,,M,28.0,,,8.0,01:07:25.00,,,,,
+Doug Steedman,,,San Francisco,,,M,63.0,,,9.0,01:07:46.00,,,,,
+Mathew Summers,,,Berkeley,,,M,25.0,,,10.0,01:08:41.00,,,,,
+John van Hoff,,,Oakland,,,M,32.0,,,11.0,01:08:51.00,,,,,
+David Yott,,,Walnut Creek,,,M,37.0,,,12.0,01:09:08.00,,,,,
+Jose Lopez,,,El Sobrante,,,M,47.0,,,13.0,01:09:28.00,,,,,
+Victor Yee,Victor Yee,Victor Yee,Berkeley,Berkeley,Berkeley CA,M,28.0,28.0,M 18-29,14.0,01:10:01.00,7.0,01:43:22.77,65.0,19.0,01:15:58.80
+Jessie Stewart,,,Oakland,,,F,33.0,,,15.0,01:10:06.00,,,,,
+Dan Desmond,,,Oakland,,,M,40.0,,,16.0,01:10:17.00,,,,,
+Susie Hufstader,,,Alameda,,,F,27.0,,,17.0,01:10:29.00,,,,,
+Brian Black,,,Oakland,,,M,51.0,,,18.0,01:10:39.00,,,,,
+Peter Hsai,,,San Francisco,,,M,57.0,,,19.0,01:11:06.00,,,,,
+Kaitlyn Spees,,,Oakland,,,F,25.0,,,20.0,01:11:59.00,,,,,
+Alex Andel,,Alex Andel,Berkeley,,Berkeley CA,M,46.0,46.0,,21.0,01:12:15.00,,,22.0,15.0,01:14:10.00
+Joseph Makonnen,Joseph Makonnen,Joseph Makonnen,Oakland,Oakland,Oakland CA,M,45.0,45.0,M 45-49,22.0,01:12:42.00,11.0,01:48:40.76,35.0,24.0,01:16:24.70
+Isabel Howard,,,Oakland,,,F,32.0,,,23.0,01:12:54.00,,,,,
+Laurent Hautefeuille,,,Berkeley,,,M,36.0,,,24.0,01:13:08.00,,,,,
+Charles Forster,Charles Forster,,Lafayette,Lafayette,,M,47.0,,M 45-49,25.0,01:13:39.00,9.0,01:47:17.98,,,
+Sissel Berntsen-Heber,,,Mill Valley,,,F,54.0,,,26.0,01:13:44.00,,,,,
+Evan Paul,,,Piedmont,,,M,41.0,,,27.0,01:13:57.00,,,,,
+Tony O'Toole,,,Oakland,,,M,31.0,,,28.0,01:14:09.00,,,,,
+Richard Soper,,,Oakland,,,M,57.0,,,29.0,01:15:12.00,,,,,
+Chris Conroy,,,Berkeley,,,M,49.0,,,30.0,01:15:46.00,,,,,
+Alec Randall,Alec Randall,,Oakland,Oakland,,M,44.0,,M 40-44,31.0,01:15:51.00,10.0,01:48:26.87,,,
+Stephen Tracy,,Stephen Tracy,San Francisco,,San Francisco CA,M,55.0,55.0,,32.0,01:15:58.00,,,6.0,23.0,01:16:23.30
+Hank Williams,,Hank Williams,Richmond,,Richmond CA,M,38.0,38.0,,33.0,01:16:11.00,,,62.0,28.0,01:17:14.40
+Ashley Clayborne,,Ashley Clayborne,Oakland,,Oakland CA,M,41.0,41.0,,34.0,01:16:19.00,,,72.0,38.0,01:21:18.30
+Jeff Pomrenke,Jeff Pomrenke,Jeff Pomrenke,Oakland,Oakland,Oakland CA,M,29.0,29.0,M 18-29,35.0,01:16:44.00,43.0,02:15:12.66,106.0,54.0,01:24:44.20
+Rick Rosenbaum,,Rick Rosenbaum,Piedmont,,Piedmont CA,M,54.0,54.0,,36.0,01:17:01.00,,,53.0,57.0,01:25:36.60
+Joe Aman,,Joe Aman,Berkeley,,Berkeley CA,M,24.0,24.0,,37.0,01:17:18.00,,,69.0,26.0,01:16:59.00
+Fredrik Pettersson,,,Pleasanton,,,M,50.0,,,38.0,01:17:23.00,,,,,
+Adam Brink,,,Oakland,,,M,44.0,,,39.0,01:18:12.00,,,,,
+Valerie Kao,Valerie Kao,Valerie Kao,Hayward,Hayward,Hayward CA,F,37.0,37.0,F 35-39,40.0,01:18:14.00,24.0,02:01:10.70,74.0,76.0,01:30:16.30
+Will Fernholz,,,Berkeley,,,M,14.0,,,41.0,01:18:16.00,,,,,
+Ivor Brown,,Ivor Brown,Berkeley,,Berkeley CA,M,51.0,51.0,,42.0,01:18:26.00,,,40.0,41.0,01:21:43.00
+Ruben Ramirez,,,Alameda,,,M,61.0,,,43.0,01:18:38.00,,,,,
+Renato Concepcion,,,Berkeley,,,M,50.0,,,44.0,01:18:44.00,,,,,
+Jeff Tse,,,San Luis Obispo,,,M,45.0,,,45.0,01:18:46.00,,,,,
+Michelle Sweeney,,,Berkeley,,,F,32.0,,,46.0,01:18:49.00,,,,,
+Raul Jorcino,,,Oakland,,,M,54.0,,,47.0,01:19:03.00,,,,,
+Rudolph Letsche,Rudolph Letsche,Rudolph Letsche,Oakland,Oakland,Oakland CA,M,41.0,41.0,M 40-44,48.0,01:19:16.00,21.0,02:00:13.87,96.0,63.0,01:27:05.70
+Mike Ambrose,,,Oakland,,,M,55.0,,,49.0,01:19:22.00,,,,,
+Aidan Metcalfe,,,El Cerrito,,,M,14.0,,,50.0,01:19:24.00,,,,,
+Justin Graham,,,Oakland,,,M,46.0,,,51.0,01:19:32.00,,,,,
+Helen Lawrence,,,Oakland,,,F,36.0,,,52.0,01:19:41.00,,,,,
+Austin Peck,,,Albany,,,M,29.0,,,53.0,01:19:47.00,,,,,
+Benjamin Golze,Benjamin Golze,Benjamin Golze,Oakland,Oakland,Oakland CA,M,34.0,34.0,M 30-34,54.0,01:19:59.00,28.0,02:05:29.35,101.0,60.0,01:25:55.30
+Aaron Diamond,,,Berkeley,,,M,14.0,,,55.0,01:19:54.00,,,,,
+Maury Beck,,,Piedmont,,,M,49.0,,,56.0,01:20:18.00,,,,,
+Jorien Knipping,,,Den Hoorn Zuid-Holland,,,F,24.0,,,57.0,01:20:40.00,,,,,
+Meredith Nix,,,Oakland,,,F,20.0,,,58.0,01:20:45.00,,,,,
+Michael Gerhardt,,,Berkeley,,,M,28.0,,,59.0,01:20:51.00,,,,,
+Daniel DellOsso,,,Berkeley,,,M,65.0,,,60.0,01:20:54.00,,,,,
+Mike Johnson,,,Davis,,,M,62.0,,,61.0,01:20:59.00,,,,,
+Kathleen Helmer,,,Kentfield,,,F,44.0,,,62.0,01:21:27.00,,,,,
+Chris Lele,,,Walnut Creek,,,M,42.0,,,63.0,01:21:30.00,,,,,
+Samuel Wang,,Samuel Wang,Castro Valley,,Castro Valley CA,M,46.0,46.0,,64.0,01:21:47.00,,,125.0,109.0,01:37:00.00
+Jim Eckford,Jim Eckford,,Oakland,Oakland,,M,62.0,,M 60-64,65.0,01:21:53.00,32.0,02:09:13.84,,,
+Anna Bretan,,,Berkeley,,,F,33.0,,,66.0,01:21:56.00,,,,,
+Matthew Meyer,,,Oakland,,,M,34.0,,,67.0,01:22:06.00,,,,,
+Beck Tompkins,,,Berkeley,,,M,14.0,,,68.0,01:22:35.00,,,,,
+Maya Schechter,,,Orinda,,,F,25.0,,,69.0,01:22:42.00,,,,,
+Chris Andrews,,Chris Andrews,Berkeley,,Berkeley CA,M,31.0,31.0,,70.0,01:22:45.00,,,116.0,68.0,01:28:07.90
+Mary Kathryn Lynch,,,Oakland,,,F,54.0,,,71.0,01:22:48.00,,,,,
+Ruth Teitelbaum,,,Berkeley,,,F,48.0,,,72.0,01:22:59.00,,,,,
+Michele Byrnes,,,Berkeley,,,F,42.0,,,73.0,01:23:34.00,,,,,
+Raj Dasari,,,Berkeley,,,M,46.0,,,74.0,01:23:40.00,,,,,
+Dan Jung,,,Berkeley,,,M,39.0,,,75.0,01:24:05.00,,,,,
+Demosthenes Stathis,,,Berkeley,,,M,37.0,,,76.0,01:24:58.00,,,,,
+Angie Longworth,,,Hercules,,,F,50.0,,,77.0,01:25:12.00,,,,,
+Yurie Lee,,,Richmond,,,F,37.0,,,78.0,01:25:16.00,,,,,
+Harry Huang,,Harry Huang,Oakland,,Oakland CA,M,34.0,34.0,,79.0,01:25:19.00,,,133.0,87.0,01:32:55.80
+Lessley Anderson,,,San Francisco,,,F,44.0,,,80.0,01:25:53.00,,,,,
+Robyn Shaffer,,,Kensington,,,F,29.0,,,81.0,01:26:01.00,,,,,
+Steven Shaffer,,,Davis,,,M,57.0,,,82.0,01:26:04.00,,,,,
+Anthony Behn,,,Kensington,,,M,33.0,,,83.0,01:26:05.00,,,,,
+Carrie Hahnel,,,Alameda,,,F,39.0,,,84.0,01:26:20.00,,,,,
+Dina Brasil,,,Oakland,,,F,36.0,,,85.0,01:26:26.00,,,,,
+Debra Cramer,Debra Cramer,Debra Cramer,Alameda,Alameda,Alameda CA,F,60.0,60.0,F 60-64,86.0,01:26:36.00,50.0,02:19:59.60,39.0,126.0,01:40:32.20
+Romy Menten,,,Delft The Netherlands,,,F,22.0,,,87.0,01:26:58.00,,,,,
+Fanny Peregrina,Fanny Peregrina,Fanny Peregrina,Richmond,Richmond,Richmond CA,F,43.0,43.0,F 40-44,88.0,01:27:04.00,70.0,02:33:23.80,95.0,123.0,01:39:00.40
+Grant Thompson,,,Berkeley,,,M,47.0,,,89.0,01:27:33.00,,,,,
+Heng (Jimmy) Wu,,,Albany,,,M,29.0,,,90.0,01:27:38.00,,,,,
+Terry Hill,Terry Hill,,Oakland,Oakland,,M,66.0,,M 65-69,91.0,01:27:42.00,36.0,02:10:27.40,,,
+Thomas Leibowitz,,,Oakland,,,M,51.0,,,92.0,01:27:57.00,,,,,
+Preston Sitterly,,,Sonoma,,,M,70.0,,,93.0,01:28:09.00,,,,,
+Rudy Van Pelt,Rudy Van Pelt,,Fremont,Fremont,,M,55.0,,M 55-59,94.0,01:28:34.00,45.0,02:15:37.13,,,
+Phil Chin,PHIL CHIN,Phil Chin,Castro Valley,CASTRO VALLEY,Castro Valley CA,M,58.0,58.0,M 55-59,95.0,01:29:12.00,44.0,02:15:13.90,70.0,88.0,01:33:07.40
+Brett Jones,,,Oakland,,,M,32.0,,,96.0,01:29:26.00,,,,,
+Evan Willey,,,Alameda,,,M,42.0,,,97.0,01:29:36.00,,,,,
+David Sandoval,,David Sandoval,Oakland,,Oakland CA,M,36.0,36.0,,98.0,01:29:46.00,,,85.0,49.0,01:23:21.90
+Daniel Peterson,,,Kensington,,,M,24.0,,,99.0,01:29:49.00,,,,,
+Valerie Lee,,,Berkeley,,,F,43.0,,,100.0,01:29:53.00,,,,,
+Deborah Arrington,Deborah Arrington,Deborah Arrington,El Sobrante,El Sobrante,El Sobrante CA,F,48.0,48.0,F 45-49,101.0,01:30:03.00,37.0,02:10:58.76,37.0,77.0,01:30:16.70
+Jeff Merken,,,Lafayette,,,M,57.0,,,102.0,01:30:07.00,,,,,
+Heather Jones,,,Davis,,,F,51.0,,,103.0,01:30:15.00,,,,,
+Alina del Rosario,,,Berkeley,,,F,23.0,,,104.0,01:30:36.00,,,,,
+Mike Zurko,,,Alameda,,,M,33.0,,,105.0,01:30:39.00,,,,,
+Mark Buhler,,,San Leandro,,,M,50.0,,,106.0,01:31:01.00,,,,,
+Todd McCarl,,,Concord,,,M,50.0,,,107.0,01:31:05.00,,,,,
+Sharlet Gilbert,,,Richmond,,,F,67.0,,,108.0,01:31:16.00,,,,,
+Mark Metcalfe,,,El Cerrito,,,M,49.0,,,109.0,01:31:25.00,,,,,
+Jenny Kinder,,Jenny Kinder,Berkeley,,Berkeley CA,F,54.0,54.0,,110.0,01:31:35.00,,,48.0,118.0,01:38:03.70
+Ken Sandberg,,Ken Sandberg,San Francisco,,San Francisco CA,M,48.0,48.0,,111.0,01:31:44.00,,,160.0,142.0,01:45:16.00
+Ahsan Mir,Ahsan Mir,Ahsan Mir,Berkeley,Berkeley,Berkeley CA,M,42.0,42.0,M 40-44,112.0,01:31:47.00,47.0,02:16:25.28,122.0,85.0,01:32:06.60
+Casey McNamara,,,Berkeley,,,M,53.0,,,113.0,01:32:13.00,,,,,
+Michelle Quinn,Michelle Quinn,Michelle Quinn,Oakland,Oakland,Oakland CA,F,54.0,54.0,F 50-54,114.0,01:32:17.00,82.0,02:41:45.22,90.0,152.0,01:48:13.80
+Ethan Ligon,,,Berkeley,,,M,51.0,,,115.0,01:32:20.00,,,,,
+Ed Weil,,,El Cerrito,,,M,63.0,,,116.0,01:32:54.00,,,,,
+Vicki DeMenno,,,Corte Madera,,,F,58.0,,,117.0,01:33:03.00,,,,,
+Grant Wilcox,,,Castro Valley,,,M,58.0,,,118.0,01:33:13.00,,,,,
+Megan Wheelehan,,,Oakland,,,F,33.0,,,119.0,01:33:27.00,,,,,
+Shannon Hagan,,,Oakland,,,F,41.0,,,120.0,01:33:50.00,,,,,
+Scott Brandon,Scott Brandon,Scott Brandon,Livermore,Livermore,Livermore CA,M,62.0,62.0,M 60-64,121.0,01:36:24.00,64.0,02:28:49.86,83.0,130.0,01:41:22.10
+Daniel Newbold,,,Berkley,,,M,41.0,,,122.0,01:37:17.00,,,,,
+Edmundo Vitocruz,Edmundo Vitocruz,Edmundo Vitocruz,San Leandro,San Leandro,San Leandro CA,M,51.0,51.0,M 50-54,123.0,01:37:24.00,56.0,02:22:59.31,124.0,127.0,01:40:38.00
+Jedediah Goddard,,,Alameda,,,M,38.0,,,124.0,01:37:29.00,,,,,
+Katherine Ogburn,,,Berkeley,,,F,48.0,,,125.0,01:37:49.00,,,,,
+Marina Christodoulides,,Marina Christodoulides,Oakland,,Oakland CA,F,33.0,33.0,,126.0,01:38:46.00,,,128.0,131.0,01:41:43.30
+Rosie Ward,,,Berkeley,,,F,26.0,,,127.0,01:39:21.00,,,,,
+Julios Ratti,Julios Ratti,Julios Ratti,Oakland,Oakland,Oakland CA,M,67.0,67.0,M 65-69,128.0,01:39:35.00,60.0,02:25:28.57,168.0,185.0,02:07:12.60
+Song Hong,,,oakland,,,M,46.0,,,129.0,01:39:43.00,,,,,
+Chris Roberts,,,Lafayette,,,M,48.0,,,130.0,01:39:56.00,,,,,
+Taylor Genzoli,,,Hilmar,,,M,34.0,,,131.0,01:40:01.00,,,,,
+Siddharth Sanghvi,,,Oakland,,,M,42.0,,,132.0,01:40:08.00,,,,,
+Miegan Riddle,,,San Francisco,,,F,30.0,,,133.0,01:40:11.00,,,,,
+Andrew Kallet,,,Mill Valley,,,M,62.0,,,134.0,01:40:15.00,,,,,
+Tamar Senyak,,,Berkeley,,,F,53.0,,,135.0,01:40:20.00,,,,,
+Lori Liu,,Lori Liu,Alameda,,Alameda CA,F,39.0,39.0,,136.0,01:40:24.00,,,126.0,128.0,01:41:08.90
+Christina Jennings,,,Larkspur,,,F,57.0,,,137.0,01:40:50.00,,,,,
+Richard Jennings,,,Larkspur,,,M,57.0,,,138.0,01:40:50.00,,,,,
+Marjorie Maggenti,,,Berkeley,,,F,54.0,,,139.0,01:41:00.00,,,,,
+Amy Boyd,Amy Boyd,Amy Boyd,Oakland,Oakland,Oakland CA,F,52.0,52.0,F 50-54,140.0,01:41:09.00,94.0,02:50:42.63,79.0,143.0,01:45:30.80
+Karen Reardanz,,,Alameda,,,F,45.0,,,141.0,01:41:14.00,,,,,
+Matt Lee,,Matt Lee,Walnut Creek,,Walnut Creek CA,M,45.0,45.0,,142.0,01:41:17.00,,,157.0,139.0,01:44:19.50
+Sean Jones,,Sean Jones,Oakland,,Oakland CA,M,30.0,30.0,,143.0,01:41:21.00,,,158.0,121.0,01:38:19.80
+Balaji Krishnamurthy,,,Oakland,,,M,33.0,,,144.0,01:41:31.00,,,,,
+Sarah Hauser,,Sarah Hauser,Oakland,,Oakland CA,F,30.0,30.0,,145.0,01:42:06.00,,,137.0,138.0,01:44:00.40
+Carol Bruton,,,Livermore,,,F,65.0,,,146.0,01:42:15.00,,,,,
+Tracey Luttrell,,,San Ramon,,,F,50.0,,,147.0,01:42:26.00,,,,,
+Justin Clark,,,Oakland,,,M,36.0,,,148.0,01:43:34.00,,,,,
+John Busco,,,San Jose,,,M,55.0,,,149.0,01:44:17.00,,,,,
+Liza Mudd,,,Oakland,,,F,30.0,,,150.0,01:44:20.00,,,,,
+Eddie Nguyen,,,Dublin,,,M,42.0,,,151.0,01:44:49.00,,,,,
+Joan Buhler,,,San Leandro,,,F,49.0,,,152.0,01:44:53.00,,,,,
+Annette Lee,Annette Lee,Annette Lee,Emeryville,Emeryville,Emeryville CA,F,59.0,59.0,F 55-59,153.0,01:46:22.00,102.0,02:54:50.81,105.0,165.0,01:55:24.00
+Deb Schneider,,,Oakland,,,F,43.0,,,154.0,01:46:24.00,,,,,
+Neha Bazaj,,,Oakland,,,F,29.0,,,155.0,01:47:01.00,,,,,
+Susan Moser,Susan Moser,Susan Moser,San Lorenzo,San Lorenzo,San Lorenzo CA,F,55.0,55.0,F 55-59,156.0,01:48:00.00,96.0,02:53:56.93,88.0,160.0,01:53:05.00
+Christina Paul,,Christina Paul,Piedmont,,Piedmont CA,F,39.0,39.0,,157.0,01:48:45.00,,,153.0,150.0,01:47:43.50
+Anjuna Lohnes,,,Oakland,,,F,40.0,,,158.0,01:48:48.00,,,,,
+David Klinetobe,David Klinetobe,,San Rafael,San Rafael,,M,57.0,,M 55-59,159.0,01:49:06.00,123.0,03:15:05.47,,,
+Dan Boone,,Dan Boone,Berkeley,,Berkeley CA,M,75.0,75.0,,160.0,01:49:17.00,,,100.0,175.0,01:59:50.10
+May Chen,,May Chen,Castro Valley,,Castro Valley CA,F,47.0,47.0,,161.0,01:50:24.00,,,163.0,172.0,01:59:14.30
+Elizabeth Cantwell,,,El Cerrito,,,F,43.0,,,162.0,01:50:36.00,,,,,
+Jeffrey Cohen,,,El Cerrito,,,M,66.0,,,163.0,01:50:53.00,,,,,
+Midori Lambert,,,Piedmont,,,F,44.0,,,164.0,01:51:30.00,,,,,
+Sarah Windels,,,Oakland,,,F,39.0,,,165.0,01:51:31.00,,,,,
+Tillie Margulies,,,Berkeley,,,F,13.0,,,166.0,01:53:43.00,,,,,
+Rebecca Margulies,,,Berkeley,,,F,46.0,,,167.0,01:53:47.00,,,,,
+Hugh Rodman,,,Berkeley,,,M,47.0,,,168.0,01:53:49.00,,,,,
+Sarah Liu,,,Berkeley,,,F,52.0,,,169.0,01:54:06.00,,,,,
+Estefana Ramos,,,Oakland,,,F,32.0,,,170.0,01:54:12.00,,,,,
+Sean Johnson,,,Point Richmond,,,M,48.0,,,171.0,01:54:26.00,,,,,
+Annemarie Henning,,Annemarie Henning,Oakland,,Oakland CA,F,47.0,47.0,,172.0,01:54:43.00,,,167.0,177.0,02:00:58.80
+Anna Reschar,,,Emeryville,,,F,56.0,,,173.0,01:55:58.00,,,,,
+Rachel Lorenz,,,Orinda,,,F,61.0,,,174.0,01:56:37.00,,,,,
+Sarah Nagel,,,Berkeley,,,F,31.0,,,175.0,01:56:52.00,,,,,
+Judith Gallman,Judith Gallman,Judth Gallman,Oakland,Oakland,Oakland CA,F,57.0,57.0,F 55-59,176.0,01:57:51.00,115.0,03:05:48.33,108.0,166.0,01:56:02.30
+Janet Foote,,,Scottsdale AZ,,,F,59.0,,,177.0,01:59:20.00,,,,,
+Natalie MacIntyre,,,Oakland,,,F,31.0,,,178.0,02:00:57.00,,,,,
+Marylou E. Morris,Marylou E Morris,Marylou E Morris,Hayward,Hayward,Hayward CA,F,61.0,61.0,F 60-64,179.0,02:03:00.00,117.0,03:06:44.70,142.0,180.0,02:04:07.50
+Patricia Gonzalez,,,Oakland,,,F,55.0,,,180.0,02:04:28.00,,,,,
+Hoa On,,Hoa On,Oakland,,Oakland CA,F,46.0,46.0,,181.0,02:06:43.00,,,190.0,193.0,02:24:30.10
+Rachel Tibbetts,,Rachel Tibbetts,Oakland,,Oakland CA,F,39.0,39.0,,182.0,02:16:58.00,,,192.0,190.0,02:16:36.40
+Jessica Kovac,,,Cloudcroft NM,,,F,36.0,,,183.0,02:25:15.00,,,,,
+Geores Clevenger,,,Berkeley,,,M,81.0,,,184.0,02:37:09.00,,,,,
+,Vladimir Glavtchev,,,Castro Valley,,M,,,M 30-34,,,1.0,01:32:19.86,,,
+,andrew fisher,,,Berkeley,,M,,,M 40-44,,,3.0,01:39:45.30,,,
+,Paul Reichardt,,,Castro Valley,,M,,,M 40-44,,,4.0,01:41:01.27,,,
+,Brendan Galvin,,,Menlo Park,,M,,,M 40-44,,,5.0,01:42:30.55,,,
+,Jeffrey Huizinga,Jeffrey Huizinga,,Burlingame,Burlingame CA,M,,36.0,M 35-39,,,6.0,01:43:13.82,45.0,13.0,01:13:22.00
+,Matt Sheehy,,,San Francisco,,M,,,M 40-44,,,8.0,01:43:42.36,,,
+,Peter Hsia,Peter Hsia,,San Francisco,San Francisco CA,M,,57.0,M 55-59,,,12.0,01:50:23.30,5.0,18.0,01:15:49.10
+,Eli Rykoff,,,Castro Valley,,M,,,M 40-44,,,13.0,01:51:49.74,,,
+,Efrem Rensi,Efrem Rensi,,Oakland,Oakland CA,M,,46.0,M 45-49,,,14.0,01:53:00.10,54.0,43.0,01:21:52.90
+,Lubomir Sebo,,,Hayward,,M,,,M 45-49,,,15.0,01:54:06.31,,,
+,Anders Schneider,,,Palo Alto,,M,,,M 18-29,,,16.0,01:56:51.50,,,
+,Michael Kuo,,,Fremont,,M,,,M 45-49,,,17.0,01:57:38.52,,,
+,Nico Raffo,,,Berkeley,,M,,,M 35-39,,,18.0,01:58:02.68,,,
+,Claire Blaney,,,Oakland,,F,,,F 40-44,,,19.0,01:58:48.37,,,
+,James Shirley,,,San Francisco,,M,,,M 18-29,,,20.0,01:59:39.99,,,
+,Lucas Chaney,,,Oakland,,M,,,M 1-17,,,22.0,02:00:33.23,,,
+,Gino Mendoza,,,Oakley,,M,,,M 50-54,,,23.0,02:00:51.51,,,
+,Justin Walcott-Ayers,,,San Bruno,,M,,,M 35-39,,,25.0,02:02:12.68,,,
+,Molly Whittaker,,,San Francisco,,F,,,F 35-39,,,26.0,02:03:07.31,,,
+,Steve Delany,,,Oakland,,M,,,M 30-34,,,27.0,02:03:54.80,,,
+,Clint Williams,,,Walnut Creek,,M,,,M 55-59,,,29.0,02:05:50.90,,,
+,Nicole Crone,,,San Francisco,,F,,,F 30-34,,,30.0,02:06:15.44,,,
+,Thomas Frantzen,,,San Mateo,,M,,,M 30-34,,,31.0,02:08:28.55,,,
+,Cosma Kufa,,,San Francisco,,M,,,M 18-29,,,33.0,02:10:02.93,,,
+,Daniel Bell,,,Hillsborough,,M,,,M 30-34,,,34.0,02:10:19.38,,,
+,Alexander Noakes,,,Castro Valley,,M,,,M 18-29,,,35.0,02:10:23.80,,,
+,Andy Harris,,,Sacramento,,M,,,M 55-59,,,38.0,02:12:01.91,,,
+,Luba Romankevich,,,San Francisco,,F,,,F 30-34,,,39.0,02:13:25.94,,,
+,Baldwyn Chieh,,,Castro Valley,,M,,,M 45-49,,,40.0,02:13:29.80,,,
+,David Sanker,,,Dublin,,M,,,M 50-54,,,41.0,02:13:55.92,,,
+,Ronald Poggi,,,Novato,,M,,,M 50-54,,,42.0,02:14:08.95,,,
+,Darrell White,,,Hayward,,M,,,M 18-29,,,46.0,02:15:44.31,,,
+,Brian Copeland,,,San Francisco,,M,,,M 18-29,,,48.0,02:17:28.13,,,
+,Erin Hestir,,,Merced,,F,,,F 35-39,,,49.0,02:18:00.91,,,
+,William Sharwood,,,Fresno,,M,,,M 18-29,,,51.0,02:19:59.84,,,
+,Michael Lum,,,Berkeley,,M,,,M 30-34,,,52.0,02:20:50.00,,,
+,Jay Zelenkov,,,Nevada City,,M,,,M 30-34,,,53.0,02:20:50.15,,,
+,Michael DelGaudio,,,Mountain View,,M,,,M 35-39,,,54.0,02:21:34.17,,,
+,Kelly Boylan,,,Oakland,,F,,,F 30-34,,,55.0,02:21:43.30,,,
+,Zena Harvill,,,Oakland,,F,,,F 35-39,,,57.0,02:24:24.60,,,
+,Kara Harvill,,,Oakland,,F,,,F 30-34,,,58.0,02:24:24.21,,,
+,Amber Ritchie,Amber Ritchie,,Alameda,Alameda CA,F,,30.0,F 30-34,,,59.0,02:24:32.43,120.0,122.0,01:38:26.20
+,Tony Tan,,,San Francisco,,M,,,M 55-59,,,61.0,02:27:01.11,,,
+,Marco Meniketti,,,Castro Valley,,M,,,M 60-64,,,62.0,02:27:26.25,,,
+,Amariah Fuller,,,Oakland,,M,,,M 35-39,,,63.0,02:28:20.60,,,
+,Ryan Hoyt,,,San Francisco,,M,,,M 18-29,,,65.0,02:29:42.47,,,
+,Christina Nakamura,,,San Jose,,F,,,F 30-34,,,66.0,02:30:24.51,,,
+,Milton Lorig,,,Oakland,,M,,,M 65-69,,,67.0,02:30:42.38,,,
+,Kirk Boisseree,,,Fremont,,M,,,M 60-64,,,68.0,02:33:15.47,,,
+,Derek Racine,,,San Francisco,,M,,,M 18-29,,,69.0,02:33:22.55,,,
+,VAN Luong,,,San Jose,,F,,,F 35-39,,,71.0,02:34:54.12,,,
+,Kimball Wong,,,Hayward,,M,,,M 60-64,,,72.0,02:34:59.43,,,
+,Suhl Chin,,,San Francisco,,F,,,F 60-64,,,73.0,02:35:29.30,,,
+,Matt Chan,Matthew Chan,,Berkeley,Berkeley CA,M,,32.0,M 30-34,,,74.0,02:35:41.89,115.0,67.0,01:28:00.50
+,Thomas Keenan,,,Alameda,,M,,,M 55-59,,,75.0,02:36:17.37,,,
+,Wayne Cheng,,,Sunnyvale,,M,,,M 35-39,,,76.0,02:37:11.57,,,
+,Matthew Arterburn,,,Livermore,,M,,,M 40-44,,,77.0,02:37:31.68,,,
+,Thuy Le,,,Dublin,,F,,,F 40-44,,,78.0,02:37:51.66,,,
+,christopher wachter,,,Oakland,,M,,,M 30-34,,,79.0,02:37:56.85,,,
+,Jourdan Lieblich,,,San Ramon,,M,,,M 18-29,,,80.0,02:39:36.88,,,
+,Brian Buddell,,,Clayton,,M,,,M 50-54,,,81.0,02:40:35.14,,,
+,Claire Ames,,,Oakland,,F,,,F 45-49,,,83.0,02:42:19.41,,,
+,Chris Rogers,Chris Rogers,,Hercules,Hercules CA,M,,61.0,M 60-64,,,84.0,02:43:01.74,148.0,164.0,01:55:18.60
+,RUBI RUIZ,,,Harbor City,,F,,,F 35-39,,,85.0,02:43:07.57,,,
+,Christy Bentivoglio,,,San Ramon,,F,,,F 45-49,,,86.0,02:43:52.72,,,
+,Joseph Xie,,,Castro Valley,,M,,,M 40-44,,,87.0,02:45:19.33,,,
+,Robert Scott Johnson,,,San Francisco,,M,,,M 45-49,,,88.0,02:47:12.30,,,
+,Guneet Singh,,,Santa Clara,,M,,,M 40-44,,,89.0,02:47:37.22,,,
+,Thomas Swain,,,Walnut Creek,,M,,,M 55-59,,,90.0,02:47:45.82,,,
+,Rhett Bratt,,,Walnut Creek,,M,,,M 55-59,,,91.0,02:47:45.92,,,
+,Bart Simmons,,,Walnut Creek,,M,,,M 65-69,,,92.0,02:48:16.27,,,
+,Miyuki Hasegawa,,,San Francisco,,F,,,F 40-44,,,93.0,02:49:20.35,,,
+,Sravan K,,,Fremont,,M,,,M 35-39,,,95.0,02:51:30.60,,,
+,Andrew Ross,,,Berkeley,,M,,,M 30-34,,,97.0,02:54:06.50,,,
+,Sue Zanne Tan,,,Berkeley,,F,,,F 18-29,,,98.0,02:54:06.75,,,
+,Sierra Gibson,,,Castro Valley,,F,,,F 18-29,,,99.0,02:54:36.85,,,
+,Pete Gibson,,,San Leandro,,M,,,M 50-54,,,100.0,02:54:37.53,,,
+,Diego Tapia,,,Salinas,,M,,,M 40-44,,,101.0,02:54:42.38,,,
+,BARRY WITT,,,Castro Valley,,M,,,M 40-44,,,103.0,02:55:20.70,,,
+,Robert Root,,,Modesto,,M,,,M 55-59,,,104.0,02:57:10.30,,,
+,Daren Short,,,Modesto,,M,,,M 50-54,,,105.0,02:57:15.29,,,
+,Michelle Wright,,,Hayward,,F,,,F 18-29,,,106.0,02:57:25.20,,,
+,Bill Ralyea,Bill Ralyea,,Walnut Creek,Walnut Creek CA,M,,63.0,M 60-64,,,107.0,02:59:23.79,146.0,162.0,01:55:05.70
+,Adan Tejada,,,Moraga,,M,,,M 55-59,,,108.0,02:59:35.46,,,
+,Pamela Ben Rached,,,Castro Valley,,F,,,F 50-54,,,109.0,03:00:00.60,,,
+,Paul Fink,,,Palo Alto,,M,,,M 65-69,,,110.0,03:01:47.57,,,
+,Emily Richmond,,,San Francisco,,F,,,F 30-34,,,111.0,03:02:40.91,,,
+,VANESSA HERNANDEZ,,,Oakland,,F,,,F 18-29,,,112.0,03:02:43.55,,,
+,Mark Shinners,,,Union City,,M,,,M 65-69,,,113.0,03:03:07.99,,,
+,Jennifer Frisbie,Jennifer Frisbie,,Oakland,Oakland CA,F,,36.0,F 35-39,,,114.0,03:04:00.96,179.0,168.0,01:57:13.30
+,Linda Robinson,,,Danville,,F,,,F 65-69,,,116.0,03:05:50.15,,,
+,ria boyce,,,Castro Valley,,F,,,F 30-34,,,118.0,03:08:24.65,,,
+,Anna Glezer,,,Burlingame,,F,,,F 35-39,,,119.0,03:09:11.41,,,
+,Cres Bruns,,,Stockton,,F,,,F 60-64,,,120.0,03:10:34.69,,,
+,Isabel Lau,,,San Ramon,,F,,,F 55-59,,,121.0,03:11:17.17,,,
+,Nitasha Witt,,,Castro Valley,,F,,,F 35-39,,,122.0,03:11:41.17,,,
+,Luvey Deweber,,,,,M,,,M 55-59,,,124.0,03:15:37.31,,,
+,Mark Asbill,,,Los Alamitos,,M,,,M 65-69,,,125.0,03:17:38.00,,,
+,Patti Carr,,,,,F,,,F 50-54,,,126.0,03:22:41.59,,,
+,Sylvia Shapiro,,,Castro Valley,,F,,,F 50-54,,,127.0,03:23:22.25,,,
+,Ernestine Lee,,,Berkeley,,F,,,F 60-64,,,128.0,03:26:02.24,,,
+,S. Alba,,,Sacramento,,F,,,F 1-17,,,129.0,03:28:10.10,,,
+,Charles Kplock,,,,,M,,,M 45-49,,,130.0,03:32:34.10,,,
+,Heidi Broker,,,Tracy,,F,,,F 45-49,,,131.0,03:38:05.38,,,
+,Naomi Alba,,,Sacramento,,F,,,F 1-17,,,132.0,03:39:54.76,,,
+,Judith Bayardo-Guzman,,,Merced,,F,,,F 18-29,,,133.0,03:40:11.12,,,
+,Joceline Santiago,,,Stockton,,F,,,F 18-29,,,134.0,03:40:11.47,,,
+,Jerome Hicks,,,Modesto,,M,,,M 55-59,,,135.0,03:43:42.64,,,
+,john macdonald,,,Castro Valley,,M,,,M 55-59,,,136.0,03:46:13.70,,,
+,David Hill,,,Modesto,,M,,,M 55-59,,,137.0,03:48:21.63,,,
+,Liz Dunbar,,,Castro Valley,,F,,,F 60-64,,,138.0,03:59:41.78,,,
+,Angela Preston,,,Seaside,,F,,,F 18-29,,,139.0,04:19:21.91,,,
+,,Bradford Bryon,,,Penngrove CA,M,,60.0,,,,,,1.0,11.0,01:12:30.00
+,,Crosby Freeman,,,San Francisco CA,M,,34.0,,,,,,2.0,2.0,00:56:55.90
+,,Paul Balmer,,,Berkeley CA,M,,28.0,,,,,,4.0,1.0,00:55:51.70
+,,Ben Eversole,,,Oakland CA,M,,25.0,,,,,,7.0,4.0,01:00:37.60
+,,Joseph Stefani,,,San Francisco CA,M,,61.0,,,,,,8.0,44.0,01:21:56.10
+,,Steven Stenberg,,,Novato CA,M,,57.0,,,,,,9.0,29.0,01:17:33.00
+,,Joe Schieffer,,,Oakland CA,M,,67.0,,,,,,10.0,66.0,01:27:48.00
+,,Michael Broom,,,Mill Valley CA,M,,40.0,,,,,,11.0,5.0,01:06:40.30
+,,Matthew Brown,,,San Francisco CA,M,,40.0,,,,,,123.0,86.0,01:32:33.80
+,,Elizabeth Ross,,,Oakland CA,F,,51.0,,,,,,12.0,70.0,01:28:41.70
+,,Anne Mason,,,Oakland CA,F,,52.0,,,,,,13.0,73.0,01:29:25.90
+,,Todd Stevenot,,,Petaluma CA,M,,55.0,,,,,,14.0,34.0,01:19:39.20
+,,Felix Menjivar,,,South San Francisco CA,M,,13.0,,,,,,15.0,17.0,01:15:40.60
+,,Scott Donnellan,,,Mill Valley CA,M,,60.0,,,,,,16.0,56.0,01:25:05.30
+,,Steve Gregg,,,Oakland CA,M,,61.0,,,,,,17.0,58.0,01:25:38.80
+,,Kyle Robinson,,,Hayward CA,M,,30.0,,,,,,18.0,7.0,01:06:54.50
+,,Kelsey Tierney,,,,F,,20.0,,,,,,19.0,27.0,01:17:08.00
+,,Dave Covey,,,Kentfield CA,M,,57.0,,,,,,20.0,37.0,01:21:12.60
+,,John Hake,,,Oakland CA,M,,57.0,,,,,,21.0,42.0,01:21:51.20
+,,Vanessa Kobza,,,Berkeley CA,F,,31.0,,,,,,23.0,31.0,01:18:47.10
+,,Alec Randall,,,Oakland CA,M,,45.0,,,,,,24.0,16.0,01:14:47.80
+,,Jesus Romo,,,Oakland CA,M,,29.0,,,,,,25.0,6.0,01:06:53.30
+,,Jen Odom,,,Oakland CA,F,,39.0,,,,,,26.0,32.0,01:19:07.10
+,,Jesse Lueders,,,Oakland CA,M,,32.0,,,,,,27.0,8.0,01:09:12.70
+,,Jim Flanigan,,,Davis CA,M,,68.0,,,,,,28.0,89.0,01:33:23.60
+,,Sarah Levesque,,,San Francisco CA,F,,46.0,,,,,,29.0,71.0,01:28:41.80
+,,Caslyn Tonelli,,,Oakland CA,F,,30.0,,,,,,30.0,35.0,01:19:51.90
+,,John Spriggs,,,El Cerrito CA,M,,57.0,,,,,,31.0,52.0,01:23:57.10
+,,Thomas Smith,,,Berkeley CA,M,,36.0,,,,,,32.0,9.0,01:10:12.60
+,,Bud Parer,,,Novato CA,M,,55.0,,,,,,33.0,53.0,01:24:14.50
+,,Randall Conner,,,South San Francisco CA,M,,49.0,,,,,,34.0,22.0,01:16:16.70
+,,Pedro Cifuentes,,,San Rafael CA,M,,40.0,,,,,,36.0,10.0,01:12:26.70
+,,David Leipsic,,,San Rafael CA,M,,53.0,,,,,,38.0,39.0,01:21:24.90
+,,Doug Fontaine,,,Berkeley CA,M,,52.0,,,,,,41.0,47.0,01:22:38.40
+,,Ken Kalman,,,Canyon CA,M,,62.0,,,,,,42.0,83.0,01:31:52.30
+,,Matthew Bell,,,San Francisco CA,M,,31.0,,,,,,43.0,12.0,01:12:55.10
+,,Dave Latner,,,San Francisco CA,M,,60.0,,,,,,44.0,84.0,01:32:03.60
+,,Julie Sigoloff,,,Albany CA,F,,55.0,,,,,,46.0,134.0,01:42:30.20
+,,Nicola James,,,Lafayette CA,F,,54.0,,,,,,47.0,117.0,01:37:52.00
+,,Michael Boland,,,Richmond CA,M,,46.0,,,,,,49.0,36.0,01:20:17.90
+,,Isaac Gonzalez,,,El Cerrito CA,M,,40.0,,,,,,50.0,25.0,01:16:41.40
+,,Peter Hake,,,Oakland CA,M,,13.0,,,,,,51.0,55.0,01:24:53.80
+,,Mark Dykhouse,,,Lafayette CA,M,,65.0,,,,,,52.0,124.0,01:39:32.30
+,,Wyatt Ellis,,,Golden CA,M,,21.0,,,,,,55.0,14.0,01:13:57.00
+,,Peter McElroy,,,San Francisco CA,M,,31.0,,,,,,56.0,20.0,01:16:07.60
+,,Peter Kozelka,,,Albany CA,M,,58.0,,,,,,57.0,75.0,01:30:08.20
+,,Rory Hamaoka,,,Richmond CA,M,,37.0,,,,,,58.0,21.0,01:16:14.20
+,,Anna Blinstein,,,San Mateo CA,F,,37.0,,,,,,59.0,62.0,01:26:56.70
+,,Dave Parrish,,,San Francisco CA,M,,44.0,,,,,,60.0,33.0,01:19:09.30
+,,Mark Tipton,,,Piedmont CA,M,,57.0,,,,,,61.0,80.0,01:31:13.70
+,,James Jirn,,,Oakland CA,M,,51.0,,,,,,63.0,64.0,01:27:28.80
+,,Constance Bailey,,,El Cerrito CA,F,,30.0,,,,,,64.0,65.0,01:27:44.50
+,,Andrew O’rourke,,,Novato CA,M,,32.0,,,,,,66.0,30.0,01:18:03.90
+,,Tim Drew,,,Oakland CA,M,,50.0,,,,,,67.0,69.0,01:28:20.30
+,,Cate McManus,,,Alameda CA,F,,50.0,,,,,,68.0,136.0,01:42:56.30
+,,Philip Say,,,Orinda CA,M,,51.0,,,,,,71.0,72.0,01:29:13.90
+,,Naomi Ziesmer,,,Walnut Creek CA,F,,30.0,,,,,,73.0,74.0,01:30:02.90
+,,Jack Zakarian,,,Orinda CA,M,,66.0,,,,,,75.0,140.0,01:44:43.30
+,,Julia Green,,,Oakland CA,F,,32.0,,,,,,76.0,79.0,01:31:05.20
+,,Maureen Giblin,,,Berkeley CA,F,,44.0,,,,,,77.0,98.0,01:35:10.40
+,,Arielle Slam,,,Oakland CA,F,,33.0,,,,,,78.0,81.0,01:31:19.60
+,,Jordan Smith,,,Alameda CA,M,,33.0,,,,,,80.0,40.0,01:21:42.00
+,,Adrian Paul,,,San Leandro CA,M,,35.0,,,,,,81.0,45.0,01:21:57.40
+,,Gene Gorelik,,,Oakland CA,M,,33.0,,,,,,82.0,46.0,01:22:21.40
+,,David Ly-Gagnon,,,,M,,31.0,,,,,,84.0,48.0,01:22:49.40
+,,John Gieng,,,San Francisco CA,M,,39.0,,,,,,86.0,50.0,01:23:29.30
+,,Joel Sowder,,,Somerville,M,,56.0,,,,,,87.0,116.0,01:37:47.20
+,,Kathryn Rose,,,Oakland CA,F,,39.0,,,,,,89.0,91.0,01:34:13.70
+,,John Cheetham,,,San Rafael CA,M,,51.0,,,,,,91.0,92.0,01:34:22.10
+,,Mark Liebthal,,,Oakland CA,M,,54.0,,,,,,92.0,93.0,01:34:44.30
+,,Alan Jung,,,Oakland CA,M,,51.0,,,,,,93.0,94.0,01:34:45.50
+,,Amelia Wood,,,Oakland CA,F,,33.0,,,,,,94.0,96.0,01:34:54.60
+,,Emily Caplan,,,Brookline,F,,26.0,,,,,,97.0,100.0,01:35:22.90
+,,Kenan Courtney,,,Berkeley CA,M,,25.0,,,,,,98.0,51.0,01:23:31.50
+,,Christian Areas,,,Berkeley CA,M,,36.0,,,,,,99.0,59.0,01:25:49.70
+,,Ashley Hazel,,,San Francisco CA,F,,40.0,,,,,,102.0,125.0,01:39:57.50
+,,Jay Radner,,,Oakland CA,M,,50.0,,,,,,103.0,102.0,01:36:01.00
+,,Michael Jack,,,Danville CA,M,,51.0,,,,,,104.0,104.0,01:36:17.00
+,,Abbey Dykhouse,,,Oakland CA,F,,33.0,,,,,,107.0,108.0,01:36:49.20
+,,Mike Landucci,,,Oakland CA,M,,58.0,,,,,,109.0,129.0,01:41:11.80
+,,Anna Kurtz,,,Albany CA,F,,37.0,,,,,,110.0,112.0,01:37:21.10
+,,Natalie Sandoval,,,Seattle WA,F,,33.0,,,,,,111.0,113.0,01:37:26.90
+,,Alan Burkett,,,Albany CA,M,,61.0,,,,,,112.0,144.0,01:46:31.60
+,,Jessica Sawczuk,,,Oakland CA,F,,35.0,,,,,,113.0,114.0,01:37:33.50
+,,Rachel Latta,,,Oakland CA,F,,35.0,,,,,,114.0,115.0,01:37:44.00
+,,Alan Whippy,,,Alamo CA,F,,65.0,,,,,,117.0,178.0,02:02:14.30
+,,Hannah Turner,,,San Francisco CA,F,,27.0,,,,,,118.0,120.0,01:38:16.20
+,,Paul Mei,,,Oakland CA,M,,20.0,,,,,,119.0,61.0,01:26:18.60
+,,Freddy Fernandez,,,South San Francisco CA,M,,42.0,,,,,,121.0,78.0,01:30:42.40
+,,Paul Barnes,,,San Francisco CA,M,,37.0,,,,,,127.0,82.0,01:31:28.10
+,,Kitaho Kato,,,Oakland CA,F,,39.0,,,,,,129.0,132.0,01:42:03.30
+,,Stephen Way,,,San Francisco CA,M,,46.0,,,,,,130.0,119.0,01:38:06.60
+,,Chelsea Turner,,,San Francisco CA,F,,27.0,,,,,,131.0,135.0,01:42:35.30
+,,Gregory Verrilli,,,Emeryville CA,M,,41.0,,,,,,132.0,95.0,01:34:52.00
+,,Suhaib Abdali,,,Oakland PAID,M,,43.0,,,,,,134.0,97.0,01:34:55.90
+,,David Davis,,,Berkeley CA,M,,44.0,,,,,,135.0,99.0,01:35:20.20
+,,Will Roscoe,,,Oakland CA,M,,34.0,,,,,,136.0,90.0,01:33:55.40
+,,Oscar Osorio,,,Daly City CA,M,,41.0,,,,,,138.0,105.0,01:36:21.20
+,,Will Rose,,,Oakland CA,M,,43.0,,,,,,139.0,107.0,01:36:34.70
+,,Kristina Montgomery,,,Berkeley CA,F,,33.0,,,,,,140.0,141.0,01:44:50.30
+,,Lidia Deleon,,,Daly City CA,F,,42.0,,,,,,141.0,154.0,01:49:03.40
+,,Matthew Mintzias,,,Irvine CA,M,,31.0,,,,,,143.0,101.0,01:35:37.50
+,,Susan Lo,,,Oakland CA,F,,52.0,,,,,,144.0,174.0,01:59:40.30
+,,Devin Coyle,,,Moraga CA,M,,37.0,,,,,,145.0,103.0,01:36:03.10
+,,Adam Fragen,,,Walnut Creek CA,M,,49.0,,,,,,147.0,133.0,01:42:10.00
+,,Benjamin Woskow,,,Oakland CA,M,,33.0,,,,,,149.0,106.0,01:36:25.60
+,,Helen Blackmore,,,Berkeley CA,F,,29.0,,,,,,150.0,146.0,01:46:49.90
+,,Jesse McKeithen,,,Oakland CA,M,,39.0,,,,,,151.0,110.0,01:37:01.00
+,,Lauren Morrison,,,Oakland CA,F,,31.0,,,,,,152.0,148.0,01:47:17.40
+,,Susan Pilipauskas,,,Oakland CA,F,,41.0,,,,,,154.0,157.0,01:51:44.70
+,,Tim Danison,,,San Francisco CA,M,,51.0,,,,,,155.0,151.0,01:47:57.60
+,,Lucy Stevenot,,,Novato CA,F,,27.0,,,,,,156.0,153.0,01:48:14.10
+,,Kin Seng Wong,,,Alameda CA,M,,23.0,,,,,,159.0,111.0,01:37:14.70
+,,Lena Nicodemus,,,Oakland CA,F,,28.0,,,,,,161.0,155.0,01:49:23.40
+,,Heidi Faria,,,San Leandro CA,F,,42.0,,,,,,162.0,161.0,01:54:03.50
+,,Myrna Stevenot,,,San Rafael CA,F,,27.0,,,,,,164.0,156.0,01:50:34.80
+,,Rasmus Olsson,,,Lafayette CA,M,,50.0,,,,,,165.0,158.0,01:51:51.80
+,,Rosie O'Hara,,,San Francisco CA,F,,30.0,,,,,,166.0,159.0,01:51:55.80
+,,Marc Glogowsky,,,Oakland CA,M,,31.0,,,,,,169.0,137.0,01:43:36.40
+,,Scott Osmus,,,Walnut Creek CA,M,,58.0,,,,,,170.0,169.0,01:57:42.30
+,,Gina Hewlett,,,Walnut Creek CA,F,,46.0,,,,,,171.0,179.0,02:03:45.10
+,,Andria Eguia,,,Oakland CA,F,,44.0,,,,,,172.0,171.0,01:59:07.30
+,,Bailey Siewert,,,Hayward CA,F,,31.0,,,,,,173.0,163.0,01:55:11.80
+,,David Koo,,,Oakland CA,M,,40.0,,,,,,174.0,149.0,01:47:25.40
+,,Jen French,,,Oakland CA,F,,45.0,,,,,,175.0,181.0,02:04:28.00
+,,Jennifer Nyman,,,Oakland CA,F,,41.0,,,,,,176.0,176.0,01:59:56.10
+,,Candie Ticong,,,Oakland CA,M,,36.0,,,,,,177.0,145.0,01:46:41.50
+,,Mark Campbell,,,Alameda CA,M,,36.0,,,,,,178.0,147.0,01:47:04.80
+,,Kim Whippy,,,Napa CA,F,,33.0,,,,,,180.0,170.0,01:58:14.40
+,,Ellen Daly,,,Berkeley CA,F,,41.0,,,,,,181.0,186.0,02:07:41.70
+,,Emily Miller,,,Oakland CA,F,,34.0,,,,,,182.0,182.0,02:04:30.70
+,,Daniela Schiano Di Cola,,,Oakland CA,F,,30.0,,,,,,183.0,184.0,02:06:50.90
+,,Brittanee Parker,,,Hayward CA,F,,25.0,,,,,,184.0,187.0,02:08:44.70
+,,Esmeralda Munoz,,,San Joze CA,F,,36.0,,,,,,185.0,188.0,02:08:58.30
+,,Cristian Cervantes,,,San Jose CA,M,,26.0,,,,,,186.0,167.0,01:56:58.60
+,,Mike Knapp,,,Walnut Creek CA,M,,31.0,,,,,,187.0,173.0,01:59:31.40
+,,Jan Tiedemann,,,Healdsburg CA,F,,58.0,,,,,,188.0,194.0,02:30:45.80
+,,Jared Grippe,,,Oakland CA,M,,35.0,,,,,,189.0,183.0,02:05:08.90
+,,Tra Nguyen,,,Oakland CA,F,,30.0,,,,,,191.0,189.0,02:16:14.10
+,,Claire McCabe,,,Castro Valley CA,F,,38.0,,,,,,193.0,191.0,02:16:38.40
+,,Heather Appel,,,Oakland CA,F,,40.0,,,,,,194.0,192.0,02:20:55.50
+,,Diane Adele,,,Antioch CA,F,,56.0,,,,,,195.0,195.0,02:42:43.00

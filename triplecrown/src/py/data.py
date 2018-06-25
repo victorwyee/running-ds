@@ -101,10 +101,22 @@ for tcol in ['time_gun_ttt', 'time_gun_lc', 'time_gun_wm']:
     inmerge2018_df[tcol] = [helpers.format_timedelta(td) for td in inmerge2018_df[tcol]]
     outmerge2018_df[tcol] = [helpers.format_timedelta(td) for td in outmerge2018_df[tcol]]
 
+
+inmerge2018_df['time_total'] = [helpers.format_timedelta(td) for td in inmerge2018_df['time_total']]
+
 # Sort
 inmerge2018_df.sort_values(by=['time_total'], inplace=True)
 inmerge2018_df.reset_index(drop=True, inplace=True)
 
+# Add position
+inmerge2018_df.insert(0, 'position_total', inmerge2018_df['time_total'].rank().astype(int))
+
 # Write out
-outmerge2018_df.to_csv('triplecrown/out/20180625/triple_crown_2018_allresults_20180625.csv', encoding='utf-8')
-inmerge2018_df.to_csv('triplecrown/out/20180625/triple_crown_2018_innerjoin_20180625.csv', encoding='utf-8')
+out_dir = 'triplecrown/out/20180625/'
+outmerge2018_df.to_csv(out_dir + 'triple_crown_2018_allresults_20180625.csv', index=False, encoding='utf-8')
+inmerge2018_df.to_csv(out_dir + '/triple_crown_2018_innerjoin_20180625.csv',  index=False, encoding='utf-8')
+
+# Clean up
+del inmerge2018_1_df, inmerge2018_2_df
+del outmerge2018_1_df, outmerge2018_2_df
+del tcol, out_dir
